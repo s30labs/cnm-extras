@@ -1,0 +1,18 @@
+
+
+/usr/local/share/perl/5.20.2/Net/Telnet/Cisco.pm /opt/cnm-os/perl_modules/extras/Cisco.pm
+756c756
+<     return wantarray ? split /$/mg, $_ : $_; # ORS instead?
+---
+>     return wantarray ? split /$/m, $_ : $_; # ORS instead?
+
+
+----------------------------------------------------------
+/usr/local/share/perl/5.20.2/Mail/POP3Client.pm
+
+Linea 33:
+
+ $VERSION = substr q$Revision: 2.18 $, 10;
+ $VERSION = substr q$Revision: 2.18 $, 10, -1;  **MOD**
+
+----------------------------------------------------------
