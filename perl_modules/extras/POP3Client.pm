@@ -30,7 +30,7 @@ require Exporter;
 );
 
 my $ID =q( $Id: POP3Client.pm,v 2.18 2008/02/27 03:03:21 ssd Exp $ );
-$VERSION = substr q$Revision: 2.18$, 10, -1;
+$VERSION = substr q$Revision: 2.18$, 10, 4;
 
 
 # Preloaded methods go here.

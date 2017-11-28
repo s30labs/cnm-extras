@@ -25,8 +25,12 @@ imodule()
 
  # install -----------------------
  SEGUIR=1
+ DIR_MODULES='/opt/cnm-os/perl_modules'
+ if [ -d '/opt/cnm-extras/perl_modules' ]; then
+   DIR_MODULES='/opt/cnm-extras/perl_modules'
+ fi
  # Si existe /os/perl_modules/$SUBDIR.sh ejecuta ese script y termina
- if [ -f /os/perl_modules/$SUBDIR.sh ]; then /os/perl_modules/$SUBDIR.sh; exit; fi
+ if [ -f $DIR_MODULES/$SUBDIR.sh ]; then $DIR_MODULES/$SUBDIR.sh; exit; fi
 
  cd $SRCDIR/$SUBDIR 2>/dev/null
  if [ $? -gt 0 ];
@@ -54,8 +58,8 @@ echo $SRCDIR/$SUBDIR
  fi
 
  # Si existe /os/perl_modules/post-$SUBDIR.sh ejecuta ese script al terminar de instalar
- if [ -f /os/perl_modules/post-$SUBDIR.sh ]; then 
-   /os/perl_modules/post-$SUBDIR.sh; 
+ if [ -f $DIR_MODULES/post-$SUBDIR.sh ]; then 
+   $DIR_MODULES/post-$SUBDIR.sh; 
  fi
 
 }
