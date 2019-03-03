@@ -338,3 +338,4 @@ Excel-Writer-XLSX-0.95.tar.gz
 HTML-TableExtract-2.15.tar.gz
 YAML-1.24.tar.gz
 Filesys-SmbClient-3.2.tar.gz
+DBD-Pg-3.7.4.tar.gz
