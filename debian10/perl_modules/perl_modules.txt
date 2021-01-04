@@ -106,6 +106,7 @@ File-Listing-6.14.tar.gz
 File-Path-2.18.tar.gz
 File-ReadBackwards-1.05.tar.gz
 File-Remove-1.60.tar.gz
+File-ShareDir-1.118.tar.gz
 File-ShareDir-Install-0.13.tar.gz
 File-Slurp-9999.32.tar.gz
 File-Slurp-Tiny-0.004.tar.gz
@@ -145,6 +146,7 @@ IO-Stringy-2.113.tar.gz
 IO-Tty-1.15.tar.gz
 IPC-Run3-0.048.tar.gz
 IPC-Shareable-0.61.tar.gz
+IPC-System-Simple-1.30.tar.gz
 JSON-4.02.tar.gz
 JSON-MaybeXS-1.004003.tar.gz
 JSON-PP-4.05.tar.gz
@@ -242,6 +244,7 @@ Test-ClassAPI-1.07.tar.gz
 Test-Deep-1.130.tar.gz
 Test-Exception-0.43.tar.gz
 Test-Fatal-0.016.tar.gz
+Test-File-ShareDir-1.001002.tar.gz
 Test-Inline-2.213.tar.gz
 Test-LongString-0.17.tar.gz
 Test-Manifest-2.021.tar.gz
@@ -256,6 +259,7 @@ Test-Warn-0.36.tar.gz
 Test-Warnings-0.030.tar.gz
 Test-WWW-Mechanize-1.54.tar.gz
 Text-Autoformat-1.75.tar.gz
+Test2-Plugin-NoWarnings-0.09.tar.gz
 Test2-Suite-0.000139.tar.gz
 Text-Diff-1.45.tar.gz
 Text-Glob-0.11.tar.gz
