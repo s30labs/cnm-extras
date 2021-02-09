@@ -10,8 +10,11 @@ Apache-Session-1.94.tar.gz
 Archive-Zip-1.68.tar.gz
 Authen-SASL-2.16.tar.gz
 bignum-0.51.tar.gz
+B-COW-0.004.tar.gz
 B-Hooks-EndOfScope-0.24.tar.gz
+Bit-Vector-7.4.tar.gz
 Cache-Cache-1.08.tar.gz
+Cache-Simple-TimedExpiry-0.27.tar.gz
 Canary-Stability-2013.tar.gz
 capitalization-0.03.tar.gz
 Capture-Tiny-0.48.tar.gz
@@ -37,6 +40,7 @@ Config-Tiny-2.24.tar.gz
 Convert-ASCII-Armour-1.4.tar.gz
 Convert-ASN1-0.27.tar.gz
 Convert-PEM-0.08.tar.gz
+Cpanel-JSON-XS-4.25.tar.gz
 CPAN-2.28.tar.gz
 CPAN-Meta-2.150010.tar.gz
 CPAN-Meta-Check-0.014.tar.gz
@@ -98,6 +102,7 @@ ExtUtils-PkgConfig-1.16.tar.gz
 FFI-CheckLib-0.27.tar.gz
 File-chdir-0.1010.tar.gz
 File-chmod-0.42.tar.gz
+File-Copy-Recursive-0.45.tar.gz
 File-Find-Rule-0.34.tar.gz
 File-Flat-1.07.tar.gz
 File-Flock-2014.01.tar.gz
@@ -110,6 +115,7 @@ File-ShareDir-1.118.tar.gz
 File-ShareDir-Install-0.13.tar.gz
 File-Slurp-9999.32.tar.gz
 File-Slurp-Tiny-0.004.tar.gz
+File-Slurper-0.012.tar.gz
 Filesys-SmbClient-3.2.tar.gz
 File-Temp-0.2311.tar.gz
 File-Which-1.23.tar.gz
@@ -146,7 +152,9 @@ IO-Stringy-2.113.tar.gz
 IO-Tty-1.15.tar.gz
 IPC-Run3-0.048.tar.gz
 IPC-Shareable-0.61.tar.gz
+IPC-ShareLite-0.17.tar.gz
 IPC-System-Simple-1.30.tar.gz
+Importer-0.026.tar.gz
 JSON-4.02.tar.gz
 JSON-MaybeXS-1.004003.tar.gz
 JSON-PP-4.05.tar.gz
@@ -173,10 +181,12 @@ Math-Pari-2.030518.zip
 MIME-Base64-3.16.tar.gz
 MIME-tools-5.509.tar.gz
 MLDBM-2.05.tar.gz
+Mock-Config-0.03.tar.gz
 Module-Build-0.4231.tar.gz
 Module-Implementation-0.09.tar.gz
 Module-Install-1.19.tar.gz
 Module-Metadata-1.000037.tar.gz
+Module-Pluggable-5.2.tar.gz
 #REVISAR Module-Package-0.30.tar.gz
 Module-Refresh-0.17.tar.gz
 Module-Runtime-0.016.tar.gz
@@ -210,6 +220,7 @@ Number-Compare-0.03.tar.gz
 Object-Destroyer-2.01.tar.gz
 Object-Event-1.23.tar.gz
 Package-Stash-0.39.tar.gz
+Package-Stash-XS-0.29.tar.gz
 Params-Util-1.102.tar.gz
 Params-Validate-1.30.tar.gz
 Params-ValidationCompiler-0.30.tar.gz
@@ -229,21 +240,28 @@ Regexp-IPv6-0.03.tar.gz
 Rinci-1.1.95.tar.gz
 Role-Tiny-2.001004.tar.gz
 Scalar-List-Utils-1.55.tar.gz
+Scope-Guard-0.21.tar.gz
 Schedule-Cron-1.01.tar.gz
 SOAP-Lite-1.27.tar.gz
 Sort-Versions-1.62.tar.gz
 Specio-0.46.tar.gz
+Spiffy-0.46.tar.gz
 Statistics-ChiSquare-1.0000.tar.gz
 String-CRC32-2.tar.gz
 Sub-Exporter-Progressive-0.001013.tar.gz
 Sub-Identify-0.14.tar.gz
+Sub-Info-0.002.tar.gz
+Sub-Quote-2.006006.tar.gz
 Sub-Uplevel-0.2800.tar.gz
 Term-Clui-1.76.tar.gz
+Term-Table-0.015.tar.gz
 TermReadKey-2.38.tar.gz
+Test-Base-0.89.tar.gz
 Test-ClassAPI-1.07.tar.gz
 Test-Deep-1.130.tar.gz
 Test-Exception-0.43.tar.gz
 Test-Fatal-0.016.tar.gz
+Test-File-1.444.tar.gz
 Test-File-ShareDir-1.001002.tar.gz
 Test-Inline-2.213.tar.gz
 Test-LongString-0.17.tar.gz
@@ -252,12 +270,16 @@ Test-Memory-Cycle-1.06.tar.gz
 Test-Needs-0.002006.tar.gz
 Test-NoWarnings-1.04.tar.gz
 Test-Output-1.031.tar.gz
+Test-Pod-1.52.tar.gz
+Test-Requires-0.11.tar.gz
+Test-RequiresInternet-0.05.tar.gz
 Test-Script-1.26.tar.gz
 Test-Simple-1.302183.tar.gz
 Test-Taint-1.08.tar.gz
 Test-Warn-0.36.tar.gz
 Test-Warnings-0.030.tar.gz
 Test-WWW-Mechanize-1.54.tar.gz
+Test-YAML-1.07.tar.gz
 Text-Autoformat-1.75.tar.gz
 Test2-Plugin-NoWarnings-0.09.tar.gz
 Test2-Suite-0.000139.tar.gz
@@ -284,6 +306,7 @@ UUID-0.28.tar.gz
 UUID-Random-0.04.tar.gz
 version-0.9928.tar.gz
 Variable-Magic-0.62.tar.gz
+XString-0.005.tar.gz
 Want-0.29.tar.gz
 WWW-Curl-4.17.tar.gz
 WWW-Mechanize-2.03.tar.gz
@@ -302,3 +325,4 @@ XML-Twig-3.52.tar.gz
 XML-Writer-0.900.tar.gz
 YAML-1.30.tar.gz
 YAML-LibYAML-0.82.tar.gz
+YAML-Tiny-1.73.tar.gz
