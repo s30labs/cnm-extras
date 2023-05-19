@@ -1,0 +1,968 @@
++++Time-HiRes-1.9764.tar.gz
+Time::HiRes	 Found version 1.9764 | Time-HiRes-1.9764.tar.gz | https://cpan.metacpan.org/authors/id/A/AT/ATOOMIC/Time-HiRes-1.9764.tar.gz
+Descargado Time-HiRes-1.9764.tar.gz desde https://cpan.metacpan.org/authors/id/A/AT/ATOOMIC/Time-HiRes-1.9764.tar.gz
++++TermReadKey-2.38.tar.gz
+Term::ReadKey	 Found version 2.38 | TermReadKey-2.38.tar.gz | https://cpan.metacpan.org/authors/id/J/JS/JSTOWE/TermReadKey-2.38.tar.gz
+Descargado TermReadKey-2.38.tar.gz desde https://cpan.metacpan.org/authors/id/J/JS/JSTOWE/TermReadKey-2.38.tar.gz
++++Compress-Raw-Bzip2-2.204.tar.gz
+Compress::Raw::Bzip2	 Found version 2.204 | Compress-Raw-Bzip2-2.204.tar.gz | https://cpan.metacpan.org/authors/id/P/PM/PMQS/Compress-Raw-Bzip2-2.204.tar.gz
+Descargado Compress-Raw-Bzip2-2.204.tar.gz desde https://cpan.metacpan.org/authors/id/P/PM/PMQS/Compress-Raw-Bzip2-2.204.tar.gz
++++Compress-Raw-Zlib-2.204.tar.gz
+Compress::Raw::Zlib	 Found version 2.204 | Compress-Raw-Zlib-2.204.tar.gz | https://cpan.metacpan.org/authors/id/P/PM/PMQS/Compress-Raw-Zlib-2.204.tar.gz
+Descargado Compress-Raw-Zlib-2.204.tar.gz desde https://cpan.metacpan.org/authors/id/P/PM/PMQS/Compress-Raw-Zlib-2.204.tar.gz
+No se pudo encontrar la versión de IO::Compress
++++IO-Compress-2.204.tar.gz
+Compress::Zlib	 Found version 2.204 | IO-Compress-2.204.tar.gz | https://cpan.metacpan.org/authors/id/P/PM/PMQS/IO-Compress-2.204.tar.gz
+Descargado IO-Compress-2.204.tar.gz desde https://cpan.metacpan.org/authors/id/P/PM/PMQS/IO-Compress-2.204.tar.gz
++++Tree::DAG_Node-1.32.tar.gz
+Tree::DAG_Node	 Found version 1.32 | Tree::DAG_Node-1.32.tar.gz | https://cpan.metacpan.org/authors/id/Tree::DAG_Node-1.32.tar.gz
+Descargado Tree::DAG_Node-1.32.tar.gz desde https://cpan.metacpan.org/authors/id/Tree::DAG_Node-1.32.tar.gz
++++Test-Warn-0.37.tar.gz
+Test::Warn	 Found version 0.37 | Test-Warn-0.37.tar.gz | https://cpan.metacpan.org/authors/id/B/BI/BIGJ/Test-Warn-0.37.tar.gz
+Descargado Test-Warn-0.37.tar.gz desde https://cpan.metacpan.org/authors/id/B/BI/BIGJ/Test-Warn-0.37.tar.gz
++++Archive-Zip-1.68.tar.gz
+Archive::Zip	 Found version 1.68 | Archive-Zip-1.68.tar.gz | https://cpan.metacpan.org/authors/id/P/PH/PHRED/Archive-Zip-1.68.tar.gz
+Descargado Archive-Zip-1.68.tar.gz desde https://cpan.metacpan.org/authors/id/P/PH/PHRED/Archive-Zip-1.68.tar.gz
++++Digest-1.20.tar.gz
+Digest	 Found version 1.20 | Digest-1.20.tar.gz | https://cpan.metacpan.org/authors/id/T/TO/TODDR/Digest-1.20.tar.gz
+Descargado Digest-1.20.tar.gz desde https://cpan.metacpan.org/authors/id/T/TO/TODDR/Digest-1.20.tar.gz
++++Digest-MD5-2.58.tar.gz
+Digest::MD5	 Found version 2.58 | Digest-MD5-2.58.tar.gz | https://cpan.metacpan.org/authors/id/T/TO/TODDR/Digest-MD5-2.58.tar.gz
+Descargado Digest-MD5-2.58.tar.gz desde https://cpan.metacpan.org/authors/id/T/TO/TODDR/Digest-MD5-2.58.tar.gz
++++Digest-HMAC-1.04.tar.gz
+Digest::HMAC	 Found version 1.04 | Digest-HMAC-1.04.tar.gz | https://cpan.metacpan.org/authors/id/A/AR/ARODLAND/Digest-HMAC-1.04.tar.gz
+Descargado Digest-HMAC-1.04.tar.gz desde https://cpan.metacpan.org/authors/id/A/AR/ARODLAND/Digest-HMAC-1.04.tar.gz
++++Digest-SHA1-2.13.tar.gz
+Digest::SHA1	 Found version 2.13 | Digest-SHA1-2.13.tar.gz | https://cpan.metacpan.org/authors/id/G/GA/GAAS/Digest-SHA1-2.13.tar.gz
+Descargado Digest-SHA1-2.13.tar.gz desde https://cpan.metacpan.org/authors/id/G/GA/GAAS/Digest-SHA1-2.13.tar.gz
++++URI-5.19.tar.gz
+URI	 Found version 5.19 | URI-5.19.tar.gz | https://cpan.metacpan.org/authors/id/S/SI/SIMBABQUE/URI-5.19.tar.gz
+Descargado URI-5.19.tar.gz desde https://cpan.metacpan.org/authors/id/S/SI/SIMBABQUE/URI-5.19.tar.gz
++++HTML-Tagset-3.20.tar.gz
+HTML::Tagset	 Found version 3.20 | HTML-Tagset-3.20.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/HTML-Tagset-3.20.tar.gz
+Descargado HTML-Tagset-3.20.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/HTML-Tagset-3.20.tar.gz
++++HTML-Parser-3.81.tar.gz
+HTML::Parser	 Found version 3.81 | HTML-Parser-3.81.tar.gz | https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTML-Parser-3.81.tar.gz
+Descargado HTML-Parser-3.81.tar.gz desde https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTML-Parser-3.81.tar.gz
++++Encode-Locale-1.05.tar.gz
+Encode::Locale	 Found version 1.05 | Encode-Locale-1.05.tar.gz | https://cpan.metacpan.org/authors/id/G/GA/GAAS/Encode-Locale-1.05.tar.gz
+Descargado Encode-Locale-1.05.tar.gz desde https://cpan.metacpan.org/authors/id/G/GA/GAAS/Encode-Locale-1.05.tar.gz
++++HTTP-Date-6.05.tar.gz
+HTTP::Date	 Found version 6.05 | HTTP-Date-6.05.tar.gz | https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTTP-Date-6.05.tar.gz
+Descargado HTTP-Date-6.05.tar.gz desde https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTTP-Date-6.05.tar.gz
++++File-Listing-6.15.tar.gz
+File::Listing	 Found version 6.15 | File-Listing-6.15.tar.gz | https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/File-Listing-6.15.tar.gz
+Descargado File-Listing-6.15.tar.gz desde https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/File-Listing-6.15.tar.gz
++++IO-HTML-1.004.tar.gz
+IO::HTML	 Found version 1.004 | IO-HTML-1.004.tar.gz | https://cpan.metacpan.org/authors/id/C/CJ/CJM/IO-HTML-1.004.tar.gz
+Descargado IO-HTML-1.004.tar.gz desde https://cpan.metacpan.org/authors/id/C/CJ/CJM/IO-HTML-1.004.tar.gz
++++LWP-MediaTypes-6.04.tar.gz
+LWP::MediaTypes	 Found version 6.04 | LWP-MediaTypes-6.04.tar.gz | https://cpan.metacpan.org/authors/id/O/OA/OALDERS/LWP-MediaTypes-6.04.tar.gz
+Descargado LWP-MediaTypes-6.04.tar.gz desde https://cpan.metacpan.org/authors/id/O/OA/OALDERS/LWP-MediaTypes-6.04.tar.gz
++++HTTP-Message-6.44.tar.gz
+HTTP::Message	 Found version 6.44 | HTTP-Message-6.44.tar.gz | https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTTP-Message-6.44.tar.gz
+Descargado HTTP-Message-6.44.tar.gz desde https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTTP-Message-6.44.tar.gz
++++HTTP-Cookies-6.10.tar.gz
+HTTP::Cookies	 Found version 6.10 | HTTP-Cookies-6.10.tar.gz | https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTTP-Cookies-6.10.tar.gz
+Descargado HTTP-Cookies-6.10.tar.gz desde https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTTP-Cookies-6.10.tar.gz
++++HTTP-Daemon-6.16.tar.gz
+HTTP::Daemon	 Found version 6.16 | HTTP-Daemon-6.16.tar.gz | https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTTP-Daemon-6.16.tar.gz
+Descargado HTTP-Daemon-6.16.tar.gz desde https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTTP-Daemon-6.16.tar.gz
++++HTTP-Negotiate-6.01.tar.gz
+HTTP::Negotiate	 Found version 6.01 | HTTP-Negotiate-6.01.tar.gz | https://cpan.metacpan.org/authors/id/G/GA/GAAS/HTTP-Negotiate-6.01.tar.gz
+Descargado HTTP-Negotiate-6.01.tar.gz desde https://cpan.metacpan.org/authors/id/G/GA/GAAS/HTTP-Negotiate-6.01.tar.gz
++++Net-HTTP-6.22.tar.gz
+Net::HTTP	 Found version 6.22 | Net-HTTP-6.22.tar.gz | https://cpan.metacpan.org/authors/id/O/OA/OALDERS/Net-HTTP-6.22.tar.gz
+Descargado Net-HTTP-6.22.tar.gz desde https://cpan.metacpan.org/authors/id/O/OA/OALDERS/Net-HTTP-6.22.tar.gz
++++WWW-RobotRules-6.02.tar.gz
+WWW::RobotRules	 Found version 6.02 | WWW-RobotRules-6.02.tar.gz | https://cpan.metacpan.org/authors/id/G/GA/GAAS/WWW-RobotRules-6.02.tar.gz
+Descargado WWW-RobotRules-6.02.tar.gz desde https://cpan.metacpan.org/authors/id/G/GA/GAAS/WWW-RobotRules-6.02.tar.gz
+No se pudo encontrar la versión de libwww::perl
++++HTML-Form-6.11.tar.gz
+HTML::Form	 Found version 6.11 | HTML-Form-6.11.tar.gz | https://cpan.metacpan.org/authors/id/S/SI/SIMBABQUE/HTML-Form-6.11.tar.gz
+Descargado HTML-Form-6.11.tar.gz desde https://cpan.metacpan.org/authors/id/S/SI/SIMBABQUE/HTML-Form-6.11.tar.gz
++++WWW-Mechanize-2.17.tar.gz
+WWW::Mechanize	 Found version 2.17 | WWW-Mechanize-2.17.tar.gz | https://cpan.metacpan.org/authors/id/S/SI/SIMBABQUE/WWW-Mechanize-2.17.tar.gz
+Descargado WWW-Mechanize-2.17.tar.gz desde https://cpan.metacpan.org/authors/id/S/SI/SIMBABQUE/WWW-Mechanize-2.17.tar.gz
++++Test-LongString-0.17.tar.gz
+Test::LongString	 Found version 0.17 | Test-LongString-0.17.tar.gz | https://cpan.metacpan.org/authors/id/R/RG/RGARCIA/Test-LongString-0.17.tar.gz
+Descargado Test-LongString-0.17.tar.gz desde https://cpan.metacpan.org/authors/id/R/RG/RGARCIA/Test-LongString-0.17.tar.gz
++++Test-WWW-Mechanize-1.60.tar.gz
+Test::WWW::Mechanize	 Found version 1.60 | Test-WWW-Mechanize-1.60.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/Test-WWW-Mechanize-1.60.tar.gz
+Descargado Test-WWW-Mechanize-1.60.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/Test-WWW-Mechanize-1.60.tar.gz
++++Net-DNS-1.38.tar.gz
+Net::DNS	 Found version 1.38 | Net-DNS-1.38.tar.gz | https://cpan.metacpan.org/authors/id/N/NL/NLNETLABS/Net-DNS-1.38.tar.gz
+Descargado Net-DNS-1.38.tar.gz desde https://cpan.metacpan.org/authors/id/N/NL/NLNETLABS/Net-DNS-1.38.tar.gz
++++Net-Ping-2.75.tar.gz
+Net::Ping	 Found version 2.75 | Net-Ping-2.75.tar.gz | https://cpan.metacpan.org/authors/id/R/RU/RURBAN/Net-Ping-2.75.tar.gz
+Descargado Net-Ping-2.75.tar.gz desde https://cpan.metacpan.org/authors/id/R/RU/RURBAN/Net-Ping-2.75.tar.gz
++++Net-Telnet-3.05.tar.gz
+Net::Telnet	 Found version 3.05 | Net-Telnet-3.05.tar.gz | https://cpan.metacpan.org/authors/id/J/JR/JROGERS/Net-Telnet-3.05.tar.gz
+Descargado Net-Telnet-3.05.tar.gz desde https://cpan.metacpan.org/authors/id/J/JR/JROGERS/Net-Telnet-3.05.tar.gz
++++Net-Telnet-Cisco-1.12.tar.gz
+Net::Telnet::Cisco	 Found version 1.12 | Net-Telnet-Cisco-1.12.tar.gz | https://cpan.metacpan.org/authors/id/V/VI/VINSWORLD/Net-Telnet-Cisco-1.12.tar.gz
+Descargado Net-Telnet-Cisco-1.12.tar.gz desde https://cpan.metacpan.org/authors/id/V/VI/VINSWORLD/Net-Telnet-Cisco-1.12.tar.gz
++++NetAddr-IP-4.079.tar.gz
+NetAddr::IP	 Found version 4.079 | NetAddr-IP-4.079.tar.gz | https://cpan.metacpan.org/authors/id/M/MI/MIKER/NetAddr-IP-4.079.tar.gz
+Descargado NetAddr-IP-4.079.tar.gz desde https://cpan.metacpan.org/authors/id/M/MI/MIKER/NetAddr-IP-4.079.tar.gz
++++Module-ScanDeps-1.31.tar.gz
+Module::ScanDeps	 Found version 1.31 | Module-ScanDeps-1.31.tar.gz | https://cpan.metacpan.org/authors/id/R/RS/RSCHUPP/Module-ScanDeps-1.31.tar.gz
+Descargado Module-ScanDeps-1.31.tar.gz desde https://cpan.metacpan.org/authors/id/R/RS/RSCHUPP/Module-ScanDeps-1.31.tar.gz
++++PAR-Dist-0.52.tar.gz
+PAR::Dist	 Found version 0.52 | PAR-Dist-0.52.tar.gz | https://cpan.metacpan.org/authors/id/R/RS/RSCHUPP/PAR-Dist-0.52.tar.gz
+Descargado PAR-Dist-0.52.tar.gz desde https://cpan.metacpan.org/authors/id/R/RS/RSCHUPP/PAR-Dist-0.52.tar.gz
++++Module-Signature-0.88.tar.gz
+Module::Signature	 Found version 0.88 | Module-Signature-0.88.tar.gz | https://cpan.metacpan.org/authors/id/A/AU/AUDREYT/Module-Signature-0.88.tar.gz
+Descargado Module-Signature-0.88.tar.gz desde https://cpan.metacpan.org/authors/id/A/AU/AUDREYT/Module-Signature-0.88.tar.gz
++++XML-NamespaceSupport-1.12.tar.gz
+XML::NamespaceSupport	 Found version 1.12 | XML-NamespaceSupport-1.12.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PERIGRIN/XML-NamespaceSupport-1.12.tar.gz
+Descargado XML-NamespaceSupport-1.12.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PERIGRIN/XML-NamespaceSupport-1.12.tar.gz
++++XML-SAX-Base-1.09.tar.gz
+XML::SAX::Base	 Found version 1.09 | XML-SAX-Base-1.09.tar.gz | https://cpan.metacpan.org/authors/id/G/GR/GRANTM/XML-SAX-Base-1.09.tar.gz
+Descargado XML-SAX-Base-1.09.tar.gz desde https://cpan.metacpan.org/authors/id/G/GR/GRANTM/XML-SAX-Base-1.09.tar.gz
++++XML-SAX-1.02.tar.gz
+XML::SAX	 Found version 1.02 | XML-SAX-1.02.tar.gz | https://cpan.metacpan.org/authors/id/G/GR/GRANTM/XML-SAX-1.02.tar.gz
+Descargado XML-SAX-1.02.tar.gz desde https://cpan.metacpan.org/authors/id/G/GR/GRANTM/XML-SAX-1.02.tar.gz
++++XML-Parser-2.46.tar.gz
+XML::Parser	 Found version 2.46 | XML-Parser-2.46.tar.gz | https://cpan.metacpan.org/authors/id/T/TO/TODDR/XML-Parser-2.46.tar.gz
+Descargado XML-Parser-2.46.tar.gz desde https://cpan.metacpan.org/authors/id/T/TO/TODDR/XML-Parser-2.46.tar.gz
++++XML-Simple-2.25.tar.gz
+XML::Simple	 Found version 2.25 | XML-Simple-2.25.tar.gz | https://cpan.metacpan.org/authors/id/G/GR/GRANTM/XML-Simple-2.25.tar.gz
+Descargado XML-Simple-2.25.tar.gz desde https://cpan.metacpan.org/authors/id/G/GR/GRANTM/XML-Simple-2.25.tar.gz
++++MIME-Base64-3.16.tar.gz
+MIME::Base64	 Found version 3.16 | MIME-Base64-3.16.tar.gz | https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/MIME-Base64-3.16.tar.gz
+Descargado MIME-Base64-3.16.tar.gz desde https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/MIME-Base64-3.16.tar.gz
++++SOAP-Lite-1.27.tar.gz
+SOAP::Lite	 Found version 1.27 | SOAP-Lite-1.27.tar.gz | https://cpan.metacpan.org/authors/id/P/PH/PHRED/SOAP-Lite-1.27.tar.gz
+Descargado SOAP-Lite-1.27.tar.gz desde https://cpan.metacpan.org/authors/id/P/PH/PHRED/SOAP-Lite-1.27.tar.gz
++++Device-SerialPort-1.04.tar.gz
+Device::SerialPort	 Found version 1.04 | Device-SerialPort-1.04.tar.gz | https://cpan.metacpan.org/authors/id/C/CO/COOK/Device-SerialPort-1.04.tar.gz
+Descargado Device-SerialPort-1.04.tar.gz desde https://cpan.metacpan.org/authors/id/C/CO/COOK/Device-SerialPort-1.04.tar.gz
++++Carp-Clan-6.08.tar.gz
+Carp::Clan	 Found version 6.08 | Carp-Clan-6.08.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/Carp-Clan-6.08.tar.gz
+Descargado Carp-Clan-6.08.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/Carp-Clan-6.08.tar.gz
+No se pudo encontrar la versión de Date::Calc
++++Test-Simple-1.302195.tar.gz
+Test::Simple	 Found version 1.302195 | Test-Simple-1.302195.tar.gz | https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Test-Simple-1.302195.tar.gz
+Descargado Test-Simple-1.302195.tar.gz desde https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Test-Simple-1.302195.tar.gz
++++Algorithm-Diff-1.201.tar.gz
+Algorithm::Diff	 Found version 1.201 | Algorithm-Diff-1.201.tar.gz | https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Algorithm-Diff-1.201.tar.gz
+Descargado Algorithm-Diff-1.201.tar.gz desde https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Algorithm-Diff-1.201.tar.gz
+No se pudo encontrar la versión de NTLM
++++File-Temp-0.2311.tar.gz
+File::Temp	 Found version 0.2311 | File-Temp-0.2311.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/File-Temp-0.2311.tar.gz
+Descargado File-Temp-0.2311.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/File-Temp-0.2311.tar.gz
+No se pudo encontrar la versión de IO::stringy
++++MailTools-2.21.tar.gz
+MailTools	 Found version 2.21 | MailTools-2.21.tar.gz | https://cpan.metacpan.org/authors/id/M/MA/MARKOV/MailTools-2.21.tar.gz
+Descargado MailTools-2.21.tar.gz desde https://cpan.metacpan.org/authors/id/M/MA/MARKOV/MailTools-2.21.tar.gz
+No se pudo encontrar la versión de MIME::tools
++++IO-1.51.tar.gz
+IO	 Found version 1.51 | IO-1.51.tar.gz | https://cpan.metacpan.org/authors/id/T/TO/TODDR/IO-1.51.tar.gz
+Descargado IO-1.51.tar.gz desde https://cpan.metacpan.org/authors/id/T/TO/TODDR/IO-1.51.tar.gz
++++Schedule-Cron-1.05.tar.gz
+Schedule::Cron	 Found version 1.05 | Schedule-Cron-1.05.tar.gz | https://cpan.metacpan.org/authors/id/N/NH/NHUBBARD/Schedule-Cron-1.05.tar.gz
+Descargado Schedule-Cron-1.05.tar.gz desde https://cpan.metacpan.org/authors/id/N/NH/NHUBBARD/Schedule-Cron-1.05.tar.gz
+No se pudo encontrar la versión de Time::modules
++++Crypt-SSLeay-0.72.tar.gz
+Crypt::SSLeay	 Found version 0.72 | Crypt-SSLeay-0.72.tar.gz | https://cpan.metacpan.org/authors/id/N/NA/NANIS/Crypt-SSLeay-0.72.tar.gz
+Descargado Crypt-SSLeay-0.72.tar.gz desde https://cpan.metacpan.org/authors/id/N/NA/NANIS/Crypt-SSLeay-0.72.tar.gz
++++DBI-1.643.tar.gz
+DBI	 Found version 1.643 | DBI-1.643.tar.gz | https://cpan.metacpan.org/authors/id/T/TI/TIMB/DBI-1.643.tar.gz
+Descargado DBI-1.643.tar.gz desde https://cpan.metacpan.org/authors/id/T/TI/TIMB/DBI-1.643.tar.gz
++++DBD-mysql-4.050.tar.gz
+DBD::mysql	 Found version 4.050 | DBD-mysql-4.050.tar.gz | https://cpan.metacpan.org/authors/id/D/DV/DVEEDEN/DBD-mysql-4.050.tar.gz
+Descargado DBD-mysql-4.050.tar.gz desde https://cpan.metacpan.org/authors/id/D/DV/DVEEDEN/DBD-mysql-4.050.tar.gz
++++Crypt-SSLeay-0.72.tar.gz
+Crypt::SSLeay	 Found version 0.72 | Crypt-SSLeay-0.72.tar.gz | https://cpan.metacpan.org/authors/id/N/NA/NANIS/Crypt-SSLeay-0.72.tar.gz
+Descargado Crypt-SSLeay-0.72.tar.gz desde https://cpan.metacpan.org/authors/id/N/NA/NANIS/Crypt-SSLeay-0.72.tar.gz
++++Class-Inspector-1.36.tar.gz
+Class::Inspector	 Found version 1.36 | Class-Inspector-1.36.tar.gz | https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Class-Inspector-1.36.tar.gz
+Descargado Class-Inspector-1.36.tar.gz desde https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Class-Inspector-1.36.tar.gz
++++Config::Tiny-2.29.tar.gz
+Config::Tiny	 Found version 2.29 | Config::Tiny-2.29.tar.gz | https://cpan.metacpan.org/authors/id/Config::Tiny-2.29.tar.gz
+Descargado Config::Tiny-2.29.tar.gz desde https://cpan.metacpan.org/authors/id/Config::Tiny-2.29.tar.gz
++++Test-ClassAPI-1.07.tar.gz
+Test::ClassAPI	 Found version 1.07 | Test-ClassAPI-1.07.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-ClassAPI-1.07.tar.gz
+Descargado Test-ClassAPI-1.07.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-ClassAPI-1.07.tar.gz
++++Params-Util-1.102.tar.gz
+Params::Util	 Found version 1.102 | Params-Util-1.102.tar.gz | https://cpan.metacpan.org/authors/id/R/RE/REHSACK/Params-Util-1.102.tar.gz
+Descargado Params-Util-1.102.tar.gz desde https://cpan.metacpan.org/authors/id/R/RE/REHSACK/Params-Util-1.102.tar.gz
++++Test-NoWarnings-1.06.tar.gz
+Test::NoWarnings	 Found version 1.06 | Test-NoWarnings-1.06.tar.gz | https://cpan.metacpan.org/authors/id/H/HA/HAARG/Test-NoWarnings-1.06.tar.gz
+Descargado Test-NoWarnings-1.06.tar.gz desde https://cpan.metacpan.org/authors/id/H/HA/HAARG/Test-NoWarnings-1.06.tar.gz
++++Algorithm-Dependency-1.112.tar.gz
+Algorithm::Dependency	 Found version 1.112 | Algorithm-Dependency-1.112.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/Algorithm-Dependency-1.112.tar.gz
+Descargado Algorithm-Dependency-1.112.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/Algorithm-Dependency-1.112.tar.gz
++++Number-Compare-0.03.tar.gz
+Number::Compare	 Found version 0.03 | Number-Compare-0.03.tar.gz | https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Number-Compare-0.03.tar.gz
+Descargado Number-Compare-0.03.tar.gz desde https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Number-Compare-0.03.tar.gz
++++Text-Glob-0.11.tar.gz
+Text::Glob	 Found version 0.11 | Text-Glob-0.11.tar.gz | https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Text-Glob-0.11.tar.gz
+Descargado Text-Glob-0.11.tar.gz desde https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Text-Glob-0.11.tar.gz
++++Sub-Uplevel-0.2800.tar.gz
+Sub::Uplevel	 Found version 0.2800 | Sub-Uplevel-0.2800.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Sub-Uplevel-0.2800.tar.gz
+Descargado Sub-Uplevel-0.2800.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Sub-Uplevel-0.2800.tar.gz
++++File-Remove-1.61.tar.gz
+File::Remove	 Found version 1.61 | File-Remove-1.61.tar.gz | https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/File-Remove-1.61.tar.gz
+Descargado File-Remove-1.61.tar.gz desde https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/File-Remove-1.61.tar.gz
++++File-Slurp-9999.32.tar.gz
+File::Slurp	 Found version 9999.32 | File-Slurp-9999.32.tar.gz | https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/File-Slurp-9999.32.tar.gz
+Descargado File-Slurp-9999.32.tar.gz desde https://cpan.metacpan.org/authors/id/C/CA/CAPOEIRAB/File-Slurp-9999.32.tar.gz
++++prefork-1.05.tar.gz
+prefork	 Found version 1.05 | prefork-1.05.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/prefork-1.05.tar.gz
+Descargado prefork-1.05.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/prefork-1.05.tar.gz
++++File-Find-Rule-0.34.tar.gz
+File::Find::Rule	 Found version 0.34 | File-Find-Rule-0.34.tar.gz | https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/File-Find-Rule-0.34.tar.gz
+Descargado File-Find-Rule-0.34.tar.gz desde https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/File-Find-Rule-0.34.tar.gz
++++File-Flat-1.07.tar.gz
+File::Flat	 Found version 1.07 | File-Flat-1.07.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/File-Flat-1.07.tar.gz
+Descargado File-Flat-1.07.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/File-Flat-1.07.tar.gz
+No se pudo encontrar la versión de File::NCopy0.32.tar.gz
++++Pod-Tests-1.20.tar.gz
+Pod::Tests	 Found version 1.20 | Pod-Tests-1.20.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/Pod-Tests-1.20.tar.gz
+Descargado Pod-Tests-1.20.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/Pod-Tests-1.20.tar.gz
++++Test-Deep-1.204.tar.gz
+Test::Deep	 Found version 1.204 | Test-Deep-1.204.tar.gz | https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Test-Deep-1.204.tar.gz
+Descargado Test-Deep-1.204.tar.gz desde https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Test-Deep-1.204.tar.gz
++++Test-Exception-0.43.tar.gz
+Test::Exception	 Found version 0.43 | Test-Exception-0.43.tar.gz | https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Test-Exception-0.43.tar.gz
+Descargado Test-Exception-0.43.tar.gz desde https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Test-Exception-0.43.tar.gz
++++Test-Inline-2.214.tar.gz
+Test::Inline	 Found version 2.214 | Test-Inline-2.214.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-Inline-2.214.tar.gz
+Descargado Test-Inline-2.214.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-Inline-2.214.tar.gz
++++Test-Manifest-2.023.tar.gz
+Test::Manifest	 Found version 2.023 | Test-Manifest-2.023.tar.gz | https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-Manifest-2.023.tar.gz
+Descargado Test-Manifest-2.023.tar.gz desde https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-Manifest-2.023.tar.gz
++++Error-0.17029.tar.gz
+Error	 Found version 0.17029 | Error-0.17029.tar.gz | https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/Error-0.17029.tar.gz
+Descargado Error-0.17029.tar.gz desde https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/Error-0.17029.tar.gz
++++Apache-DBI-1.12.tar.gz
+Apache::DBI	 Found version 1.12 | Apache-DBI-1.12.tar.gz | https://cpan.metacpan.org/authors/id/P/PH/PHRED/Apache-DBI-1.12.tar.gz
+Descargado Apache-DBI-1.12.tar.gz desde https://cpan.metacpan.org/authors/id/P/PH/PHRED/Apache-DBI-1.12.tar.gz
++++Apache-Session-1.94.tar.gz
+Apache::Session	 Found version 1.94 | Apache-Session-1.94.tar.gz | https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Apache-Session-1.94.tar.gz
+Descargado Apache-Session-1.94.tar.gz desde https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Apache-Session-1.94.tar.gz
++++Cache-Cache-1.08.tar.gz
+Cache::Cache	 Found version 1.08 | Cache-Cache-1.08.tar.gz | https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Cache-Cache-1.08.tar.gz
+Descargado Cache-Cache-1.08.tar.gz desde https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Cache-Cache-1.08.tar.gz
++++Cache-Simple-TimedExpiry-0.27.tar.gz
+Cache::Simple::TimedExpiry	 Found version 0.27 | Cache-Simple-TimedExpiry-0.27.tar.gz | https://cpan.metacpan.org/authors/id/J/JE/JESSE/Cache-Simple-TimedExpiry-0.27.tar.gz
+Descargado Cache-Simple-TimedExpiry-0.27.tar.gz desde https://cpan.metacpan.org/authors/id/J/JE/JESSE/Cache-Simple-TimedExpiry-0.27.tar.gz
++++Devel-Symdump-2.18.tar.gz
+Devel::Symdump	 Found version 2.18 | Devel-Symdump-2.18.tar.gz | https://cpan.metacpan.org/authors/id/A/AN/ANDK/Devel-Symdump-2.18.tar.gz
+Descargado Devel-Symdump-2.18.tar.gz desde https://cpan.metacpan.org/authors/id/A/AN/ANDK/Devel-Symdump-2.18.tar.gz
++++capitalization-0.03.tar.gz
+capitalization	 Found version 0.03 | capitalization-0.03.tar.gz | https://cpan.metacpan.org/authors/id/M/MI/MIYAGAWA/capitalization-0.03.tar.gz
+Descargado capitalization-0.03.tar.gz desde https://cpan.metacpan.org/authors/id/M/MI/MIYAGAWA/capitalization-0.03.tar.gz
++++Carp-Assert-0.22.tar.gz
+Carp::Assert	 Found version 0.22 | Carp-Assert-0.22.tar.gz | https://cpan.metacpan.org/authors/id/Y/YV/YVES/Carp-Assert-0.22.tar.gz
+Descargado Carp-Assert-0.22.tar.gz desde https://cpan.metacpan.org/authors/id/Y/YV/YVES/Carp-Assert-0.22.tar.gz
++++Carp-Assert-More-2.2.0.tar.gz
+Carp::Assert::More	 Found version 2.2.0 | Carp-Assert-More-2.2.0.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/Carp-Assert-More-2.2.0.tar.gz
+Descargado Carp-Assert-More-2.2.0.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/Carp-Assert-More-2.2.0.tar.gz
++++CGI-4.57.tar.gz
+CGI	 Found version 4.57 | CGI-4.57.tar.gz | https://cpan.metacpan.org/authors/id/L/LE/LEEJO/CGI-4.57.tar.gz
+Descargado CGI-4.57.tar.gz desde https://cpan.metacpan.org/authors/id/L/LE/LEEJO/CGI-4.57.tar.gz
++++Params-Validate-1.31.tar.gz
+Params::Validate	 Found version 1.31 | Params-Validate-1.31.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Params-Validate-1.31.tar.gz
+Descargado Params-Validate-1.31.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Params-Validate-1.31.tar.gz
+No se pudo encontrar la versión de Scalar::List::Utils
++++Class-Accessor-0.51.tar.gz
+Class::Accessor	 Found version 0.51 | Class-Accessor-0.51.tar.gz | https://cpan.metacpan.org/authors/id/K/KA/KASEI/Class-Accessor-0.51.tar.gz
+Descargado Class-Accessor-0.51.tar.gz desde https://cpan.metacpan.org/authors/id/K/KA/KASEI/Class-Accessor-0.51.tar.gz
++++Devel-StackTrace-2.04.tar.gz
+Devel::StackTrace	 Found version 2.04 | Devel-StackTrace-2.04.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Devel-StackTrace-2.04.tar.gz
+Descargado Devel-StackTrace-2.04.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Devel-StackTrace-2.04.tar.gz
++++Class-Autouse-2.01.tar.gz
+Class::Autouse	 Found version 2.01 | Class-Autouse-2.01.tar.gz | https://cpan.metacpan.org/authors/id/A/AD/ADAMK/Class-Autouse-2.01.tar.gz
+Descargado Class-Autouse-2.01.tar.gz desde https://cpan.metacpan.org/authors/id/A/AD/ADAMK/Class-Autouse-2.01.tar.gz
++++Class-Container-0.13.tar.gz
+Class::Container	 Found version 0.13 | Class-Container-0.13.tar.gz | https://cpan.metacpan.org/authors/id/K/KW/KWILLIAMS/Class-Container-0.13.tar.gz
+Descargado Class-Container-0.13.tar.gz desde https://cpan.metacpan.org/authors/id/K/KW/KWILLIAMS/Class-Container-0.13.tar.gz
++++Class-Data-Inheritable-0.09.tar.gz
+Class::Data::Inheritable	 Found version 0.09 | Class-Data-Inheritable-0.09.tar.gz | https://cpan.metacpan.org/authors/id/R/RS/RSHERER/Class-Data-Inheritable-0.09.tar.gz
+Descargado Class-Data-Inheritable-0.09.tar.gz desde https://cpan.metacpan.org/authors/id/R/RS/RSHERER/Class-Data-Inheritable-0.09.tar.gz
++++Class-ReturnValue-0.55.tar.gz
+Class::ReturnValue	 Found version 0.55 | Class-ReturnValue-0.55.tar.gz | https://cpan.metacpan.org/authors/id/J/JE/JESSE/Class-ReturnValue-0.55.tar.gz
+Descargado Class-ReturnValue-0.55.tar.gz desde https://cpan.metacpan.org/authors/id/J/JE/JESSE/Class-ReturnValue-0.55.tar.gz
++++Clone-0.46.tar.gz
+Clone	 Found version 0.46 | Clone-0.46.tar.gz | https://cpan.metacpan.org/authors/id/G/GA/GARU/Clone-0.46.tar.gz
+Descargado Clone-0.46.tar.gz desde https://cpan.metacpan.org/authors/id/G/GA/GARU/Clone-0.46.tar.gz
++++DBD-SQLite-1.72.tar.gz
+DBD::SQLite	 Found version 1.72 | DBD-SQLite-1.72.tar.gz | https://cpan.metacpan.org/authors/id/I/IS/ISHIGAKI/DBD-SQLite-1.72.tar.gz
+Descargado DBD-SQLite-1.72.tar.gz desde https://cpan.metacpan.org/authors/id/I/IS/ISHIGAKI/DBD-SQLite-1.72.tar.gz
++++Want-0.29.tar.gz
+Want	 Found version 0.29 | Want-0.29.tar.gz | https://cpan.metacpan.org/authors/id/R/RO/ROBIN/Want-0.29.tar.gz
+Descargado Want-0.29.tar.gz desde https://cpan.metacpan.org/authors/id/R/RO/ROBIN/Want-0.29.tar.gz
++++FreezeThaw-0.5001.tar.gz
+FreezeThaw	 Found version 0.5001 | FreezeThaw-0.5001.tar.gz | https://cpan.metacpan.org/authors/id/I/IL/ILYAZ/modules/FreezeThaw-0.5001.tar.gz
+Descargado FreezeThaw-0.5001.tar.gz desde https://cpan.metacpan.org/authors/id/I/IL/ILYAZ/modules/FreezeThaw-0.5001.tar.gz
++++DBIx-DBSchema-0.47.tar.gz
+DBIx::DBSchema	 Found version 0.47 | DBIx-DBSchema-0.47.tar.gz | https://cpan.metacpan.org/authors/id/I/IV/IVAN/DBIx-DBSchema-0.47.tar.gz
+Descargado DBIx-DBSchema-0.47.tar.gz desde https://cpan.metacpan.org/authors/id/I/IV/IVAN/DBIx-DBSchema-0.47.tar.gz
++++DBIx-SearchBuilder-1.76.tar.gz
+DBIx::SearchBuilder	 Found version 1.76 | DBIx-SearchBuilder-1.76.tar.gz | https://cpan.metacpan.org/authors/id/B/BP/BPS/DBIx-SearchBuilder-1.76.tar.gz
+Descargado DBIx-SearchBuilder-1.76.tar.gz desde https://cpan.metacpan.org/authors/id/B/BP/BPS/DBIx-SearchBuilder-1.76.tar.gz
++++Exception-Class-1.45.tar.gz
+Exception::Class	 Found version 1.45 | Exception-Class-1.45.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Exception-Class-1.45.tar.gz
+Descargado Exception-Class-1.45.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Exception-Class-1.45.tar.gz
++++HTML-Tree-5.07.tar.gz
+HTML::Tree	 Found version 5.07 | HTML-Tree-5.07.tar.gz | https://cpan.metacpan.org/authors/id/K/KE/KENTNL/HTML-Tree-5.07.tar.gz
+Descargado HTML-Tree-5.07.tar.gz desde https://cpan.metacpan.org/authors/id/K/KE/KENTNL/HTML-Tree-5.07.tar.gz
+No se pudo encontrar la versión de HTML::Format
++++Font-AFM-1.20.tar.gz
+Font::AFM	 Found version 1.20 | Font-AFM-1.20.tar.gz | https://cpan.metacpan.org/authors/id/G/GA/GAAS/Font-AFM-1.20.tar.gz
+Descargado Font-AFM-1.20.tar.gz desde https://cpan.metacpan.org/authors/id/G/GA/GAAS/Font-AFM-1.20.tar.gz
++++Hook-LexWrap-0.26.tar.gz
+Hook::LexWrap	 Found version 0.26 | Hook-LexWrap-0.26.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/Hook-LexWrap-0.26.tar.gz
+Descargado Hook-LexWrap-0.26.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/Hook-LexWrap-0.26.tar.gz
++++inc-latest-0.500.tar.gz
+inc::latest	 Found version 0.500 | inc-latest-0.500.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/inc-latest-0.500.tar.gz
+Descargado inc-latest-0.500.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/inc-latest-0.500.tar.gz
++++CPAN-Meta-YAML-0.018.tar.gz
+CPAN::Meta::YAML	 Found version 0.018 | CPAN-Meta-YAML-0.018.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/CPAN-Meta-YAML-0.018.tar.gz
+Descargado CPAN-Meta-YAML-0.018.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/CPAN-Meta-YAML-0.018.tar.gz
++++CPAN-Meta-2.150010.tar.gz
+Parse::CPAN::Meta	 Found version 2.150010 | CPAN-Meta-2.150010.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/CPAN-Meta-2.150010.tar.gz
+Descargado CPAN-Meta-2.150010.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/CPAN-Meta-2.150010.tar.gz
++++CPAN-Meta-2.150010.tar.gz
+CPAN::Meta	 Found version 2.150010 | CPAN-Meta-2.150010.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/CPAN-Meta-2.150010.tar.gz
+Descargado CPAN-Meta-2.150010.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/CPAN-Meta-2.150010.tar.gz
++++Module-Build-0.4234.tar.gz
+Module::Build	 Found version 0.4234 | Module-Build-0.4234.tar.gz | https://cpan.metacpan.org/authors/id/L/LE/LEONT/Module-Build-0.4234.tar.gz
+Descargado Module-Build-0.4234.tar.gz desde https://cpan.metacpan.org/authors/id/L/LE/LEONT/Module-Build-0.4234.tar.gz
++++HTML-Mason-1.60.tar.gz
+HTML::Mason	 Found version 1.60 | HTML-Mason-1.60.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/HTML-Mason-1.60.tar.gz
+Descargado HTML-Mason-1.60.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/HTML-Mason-1.60.tar.gz
++++HTML-Scrubber-0.19.tar.gz
+HTML::Scrubber	 Found version 0.19 | HTML-Scrubber-0.19.tar.gz | https://cpan.metacpan.org/authors/id/N/NI/NIGELM/HTML-Scrubber-0.19.tar.gz
+Descargado HTML-Scrubber-0.19.tar.gz desde https://cpan.metacpan.org/authors/id/N/NI/NIGELM/HTML-Scrubber-0.19.tar.gz
++++HTTP-Server-Simple-0.52.tar.gz
+HTTP::Server::Simple	 Found version 0.52 | HTTP-Server-Simple-0.52.tar.gz | https://cpan.metacpan.org/authors/id/B/BP/BPS/HTTP-Server-Simple-0.52.tar.gz
+Descargado HTTP-Server-Simple-0.52.tar.gz desde https://cpan.metacpan.org/authors/id/B/BP/BPS/HTTP-Server-Simple-0.52.tar.gz
++++HTTP-Server-Simple-Mason-0.14.tar.gz
+HTTP::Server::Simple::Mason	 Found version 0.14 | HTTP-Server-Simple-Mason-0.14.tar.gz | https://cpan.metacpan.org/authors/id/J/JE/JESSE/HTTP-Server-Simple-Mason-0.14.tar.gz
+Descargado HTTP-Server-Simple-Mason-0.14.tar.gz desde https://cpan.metacpan.org/authors/id/J/JE/JESSE/HTTP-Server-Simple-Mason-0.14.tar.gz
++++Locale-Maketext-Fuzzy-0.11.tar.gz
+Locale::Maketext::Fuzzy	 Found version 0.11 | Locale-Maketext-Fuzzy-0.11.tar.gz | https://cpan.metacpan.org/authors/id/A/AU/AUDREYT/Locale-Maketext-Fuzzy-0.11.tar.gz
+Descargado Locale-Maketext-Fuzzy-0.11.tar.gz desde https://cpan.metacpan.org/authors/id/A/AU/AUDREYT/Locale-Maketext-Fuzzy-0.11.tar.gz
++++Locale-Maketext-Lexicon-1.00.tar.gz
+Locale::Maketext::Lexicon	 Found version 1.00 | Locale-Maketext-Lexicon-1.00.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DRTECH/Locale-Maketext-Lexicon-1.00.tar.gz
+Descargado Locale-Maketext-Lexicon-1.00.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DRTECH/Locale-Maketext-Lexicon-1.00.tar.gz
++++Log-Dispatch-2.71.tar.gz
+Log::Dispatch	 Found version 2.71 | Log-Dispatch-2.71.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Log-Dispatch-2.71.tar.gz
+Descargado Log-Dispatch-2.71.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Log-Dispatch-2.71.tar.gz
++++MLDBM-2.05.tar.gz
+MLDBM	 Found version 2.05 | MLDBM-2.05.tar.gz | https://cpan.metacpan.org/authors/id/C/CH/CHORNY/MLDBM-2.05.tar.gz
+Descargado MLDBM-2.05.tar.gz desde https://cpan.metacpan.org/authors/id/C/CH/CHORNY/MLDBM-2.05.tar.gz
++++Module-Refresh-0.18.tar.gz
+Module::Refresh	 Found version 0.18 | Module-Refresh-0.18.tar.gz | https://cpan.metacpan.org/authors/id/B/BP/BPS/Module-Refresh-0.18.tar.gz
+Descargado Module-Refresh-0.18.tar.gz desde https://cpan.metacpan.org/authors/id/B/BP/BPS/Module-Refresh-0.18.tar.gz
++++Module-Versions-Report-1.06.tar.gz
+Module::Versions::Report	 Found version 1.06 | Module-Versions-Report-1.06.tar.gz | https://cpan.metacpan.org/authors/id/J/JE/JESSE/Module-Versions-Report-1.06.tar.gz
+Descargado Module-Versions-Report-1.06.tar.gz desde https://cpan.metacpan.org/authors/id/J/JE/JESSE/Module-Versions-Report-1.06.tar.gz
++++Regexp-Common-2017060201.tar.gz
+Regexp::Common	 Found version 2017060201 | Regexp-Common-2017060201.tar.gz | https://cpan.metacpan.org/authors/id/A/AB/ABIGAIL/Regexp-Common-2017060201.tar.gz
+Descargado Regexp-Common-2017060201.tar.gz desde https://cpan.metacpan.org/authors/id/A/AB/ABIGAIL/Regexp-Common-2017060201.tar.gz
++++UNIVERSAL-require-0.19.tar.gz
+UNIVERSAL::require	 Found version 0.19 | UNIVERSAL-require-0.19.tar.gz | https://cpan.metacpan.org/authors/id/N/NE/NEILB/UNIVERSAL-require-0.19.tar.gz
+Descargado UNIVERSAL-require-0.19.tar.gz desde https://cpan.metacpan.org/authors/id/N/NE/NEILB/UNIVERSAL-require-0.19.tar.gz
++++Text-Reform-1.20.tar.gz
+Text::Reform	 Found version 1.20 | Text-Reform-1.20.tar.gz | https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Text-Reform-1.20.tar.gz
+Descargado Text-Reform-1.20.tar.gz desde https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Text-Reform-1.20.tar.gz
++++Text-Autoformat-1.75.tar.gz
+Text::Autoformat	 Found version 1.75 | Text-Autoformat-1.75.tar.gz | https://cpan.metacpan.org/authors/id/N/NE/NEILB/Text-Autoformat-1.75.tar.gz
+Descargado Text-Autoformat-1.75.tar.gz desde https://cpan.metacpan.org/authors/id/N/NE/NEILB/Text-Autoformat-1.75.tar.gz
++++Text-Quoted-2.10.tar.gz
+Text::Quoted	 Found version 2.10 | Text-Quoted-2.10.tar.gz | https://cpan.metacpan.org/authors/id/B/BP/BPS/Text-Quoted-2.10.tar.gz
+Descargado Text-Quoted-2.10.tar.gz desde https://cpan.metacpan.org/authors/id/B/BP/BPS/Text-Quoted-2.10.tar.gz
++++Text-Template-1.61.tar.gz
+Text::Template	 Found version 1.61 | Text-Template-1.61.tar.gz | https://cpan.metacpan.org/authors/id/M/MS/MSCHOUT/Text-Template-1.61.tar.gz
+Descargado Text-Template-1.61.tar.gz desde https://cpan.metacpan.org/authors/id/M/MS/MSCHOUT/Text-Template-1.61.tar.gz
++++Text-WikiFormat-0.81.tar.gz
+Text::WikiFormat	 Found version 0.81 | Text-WikiFormat-0.81.tar.gz | https://cpan.metacpan.org/authors/id/C/CY/CYCLES/Text-WikiFormat-0.81.tar.gz
+Descargado Text-WikiFormat-0.81.tar.gz desde https://cpan.metacpan.org/authors/id/C/CY/CYCLES/Text-WikiFormat-0.81.tar.gz
++++Text-Wrapper-1.05.tar.gz
+Text::Wrapper	 Found version 1.05 | Text-Wrapper-1.05.tar.gz | https://cpan.metacpan.org/authors/id/C/CJ/CJM/Text-Wrapper-1.05.tar.gz
+Descargado Text-Wrapper-1.05.tar.gz desde https://cpan.metacpan.org/authors/id/C/CJ/CJM/Text-Wrapper-1.05.tar.gz
++++Tree::Simple-1.34.tar.gz
+Tree::Simple	 Found version 1.34 | Tree::Simple-1.34.tar.gz | https://cpan.metacpan.org/authors/id/Tree::Simple-1.34.tar.gz
+Descargado Tree::Simple-1.34.tar.gz desde https://cpan.metacpan.org/authors/id/Tree::Simple-1.34.tar.gz
++++XML-RSS-1.62.tar.gz
+XML::RSS	 Found version 1.62 | XML-RSS-1.62.tar.gz | https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/XML-RSS-1.62.tar.gz
+Descargado XML-RSS-1.62.tar.gz desde https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/XML-RSS-1.62.tar.gz
++++Net-LibIDN-0.12.tar.gz
+Net::LibIDN	 Found version 0.12 | Net-LibIDN-0.12.tar.gz | https://cpan.metacpan.org/authors/id/T/TH/THOR/Net-LibIDN-0.12.tar.gz
+Descargado Net-LibIDN-0.12.tar.gz desde https://cpan.metacpan.org/authors/id/T/TH/THOR/Net-LibIDN-0.12.tar.gz
++++Object-Event-1.23.tar.gz
+Object::Event	 Found version 1.23 | Object-Event-1.23.tar.gz | https://cpan.metacpan.org/authors/id/E/EL/ELMEX/Object-Event-1.23.tar.gz
+Descargado Object-Event-1.23.tar.gz desde https://cpan.metacpan.org/authors/id/E/EL/ELMEX/Object-Event-1.23.tar.gz
++++GSSAPI-0.28.tar.gz
+GSSAPI	 Found version 0.28 | GSSAPI-0.28.tar.gz | https://cpan.metacpan.org/authors/id/A/AG/AGROLMS/GSSAPI-0.28.tar.gz
+Descargado GSSAPI-0.28.tar.gz desde https://cpan.metacpan.org/authors/id/A/AG/AGROLMS/GSSAPI-0.28.tar.gz
++++Authen-SASL-2.16.tar.gz
+Authen::SASL	 Found version 2.16 | Authen-SASL-2.16.tar.gz | https://cpan.metacpan.org/authors/id/G/GB/GBARR/Authen-SASL-2.16.tar.gz
+Descargado Authen-SASL-2.16.tar.gz desde https://cpan.metacpan.org/authors/id/G/GB/GBARR/Authen-SASL-2.16.tar.gz
++++AnyEvent-7.17.tar.gz
+AnyEvent	 Found version 7.17 | AnyEvent-7.17.tar.gz | https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/AnyEvent-7.17.tar.gz
+Descargado AnyEvent-7.17.tar.gz desde https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/AnyEvent-7.17.tar.gz
++++XML-Writer-0.900.tar.gz
+XML::Writer	 Found version 0.900 | XML-Writer-0.900.tar.gz | https://cpan.metacpan.org/authors/id/J/JO/JOSEPHW/XML-Writer-0.900.tar.gz
+Descargado XML-Writer-0.900.tar.gz desde https://cpan.metacpan.org/authors/id/J/JO/JOSEPHW/XML-Writer-0.900.tar.gz
++++XML-Twig-3.52.tar.gz
+XML::Twig	 Found version 3.52 | XML-Twig-3.52.tar.gz | https://cpan.metacpan.org/authors/id/M/MI/MIROD/XML-Twig-3.52.tar.gz
+Descargado XML-Twig-3.52.tar.gz desde https://cpan.metacpan.org/authors/id/M/MI/MIROD/XML-Twig-3.52.tar.gz
++++AnyEvent-XMPP-0.55.tar.gz
+AnyEvent::XMPP	 Found version 0.55 | AnyEvent-XMPP-0.55.tar.gz | https://cpan.metacpan.org/authors/id/M/MS/MSTPLBG/AnyEvent-XMPP-0.55.tar.gz
+Descargado AnyEvent-XMPP-0.55.tar.gz desde https://cpan.metacpan.org/authors/id/M/MS/MSTPLBG/AnyEvent-XMPP-0.55.tar.gz
++++Log-Log4perl-1.57.tar.gz
+Log::Log4perl	 Found version 1.57 | Log-Log4perl-1.57.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETJ/Log-Log4perl-1.57.tar.gz
+Descargado Log-Log4perl-1.57.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETJ/Log-Log4perl-1.57.tar.gz
++++ExtUtils-MakeMaker-7.70.tar.gz
+ExtUtils::MakeMaker	 Found version 7.70 | ExtUtils-MakeMaker-7.70.tar.gz | https://cpan.metacpan.org/authors/id/B/BI/BINGOS/ExtUtils-MakeMaker-7.70.tar.gz
+Descargado ExtUtils-MakeMaker-7.70.tar.gz desde https://cpan.metacpan.org/authors/id/B/BI/BINGOS/ExtUtils-MakeMaker-7.70.tar.gz
++++ExtUtils-Install-2.22.tar.gz
+ExtUtils::Install	 Found version 2.22 | ExtUtils-Install-2.22.tar.gz | https://cpan.metacpan.org/authors/id/B/BI/BINGOS/ExtUtils-Install-2.22.tar.gz
+Descargado ExtUtils-Install-2.22.tar.gz desde https://cpan.metacpan.org/authors/id/B/BI/BINGOS/ExtUtils-Install-2.22.tar.gz
++++Text-Iconv-1.7.tar.gz
+Text::Iconv	 Found version 1.7 | Text-Iconv-1.7.tar.gz | https://cpan.metacpan.org/authors/id/M/MP/MPIOTR/Text-Iconv-1.7.tar.gz
+Descargado Text-Iconv-1.7.tar.gz desde https://cpan.metacpan.org/authors/id/M/MP/MPIOTR/Text-Iconv-1.7.tar.gz
++++Unicode-Normalize-1.26.tar.gz
+Unicode::Normalize	 Found version 1.26 | Unicode-Normalize-1.26.tar.gz | https://cpan.metacpan.org/authors/id/K/KH/KHW/Unicode-Normalize-1.26.tar.gz
+Descargado Unicode-Normalize-1.26.tar.gz desde https://cpan.metacpan.org/authors/id/K/KH/KHW/Unicode-Normalize-1.26.tar.gz
++++Unicode-Stringprep-1.105.tar.gz
+Unicode::Stringprep	 Found version 1.105 | Unicode-Stringprep-1.105.tar.gz | https://cpan.metacpan.org/authors/id/C/CF/CFAERBER/Unicode-Stringprep-1.105.tar.gz
+Descargado Unicode-Stringprep-1.105.tar.gz desde https://cpan.metacpan.org/authors/id/C/CF/CFAERBER/Unicode-Stringprep-1.105.tar.gz
++++Net-SSLeay-1.92.tar.gz
+Net::SSLeay	 Found version 1.92 | Net-SSLeay-1.92.tar.gz | https://cpan.metacpan.org/authors/id/C/CH/CHRISN/Net-SSLeay-1.92.tar.gz
+Descargado Net-SSLeay-1.92.tar.gz desde https://cpan.metacpan.org/authors/id/C/CH/CHRISN/Net-SSLeay-1.92.tar.gz
++++IO-Socket-SSL-2.081.tar.gz
+IO::Socket::SSL	 Found version 2.081 | IO-Socket-SSL-2.081.tar.gz | https://cpan.metacpan.org/authors/id/S/SU/SULLR/IO-Socket-SSL-2.081.tar.gz
+Descargado IO-Socket-SSL-2.081.tar.gz desde https://cpan.metacpan.org/authors/id/S/SU/SULLR/IO-Socket-SSL-2.081.tar.gz
++++Net-IDN-Nameprep-1.102.tar.gz
+Net::IDN::Nameprep	 Found version 1.102 | Net-IDN-Nameprep-1.102.tar.gz | https://cpan.metacpan.org/authors/id/C/CF/CFAERBER/Net-IDN-Nameprep-1.102.tar.gz
+Descargado Net-IDN-Nameprep-1.102.tar.gz desde https://cpan.metacpan.org/authors/id/C/CF/CFAERBER/Net-IDN-Nameprep-1.102.tar.gz
++++Net-IDN-Encode-2.500.tar.gz
+Net::IDN::Encode	 Found version 2.500 | Net-IDN-Encode-2.500.tar.gz | https://cpan.metacpan.org/authors/id/C/CF/CFAERBER/Net-IDN-Encode-2.500.tar.gz
+Descargado Net-IDN-Encode-2.500.tar.gz desde https://cpan.metacpan.org/authors/id/C/CF/CFAERBER/Net-IDN-Encode-2.500.tar.gz
++++XML-Filter-BufferText-1.01.tar.gz
+XML::Filter::BufferText	 Found version 1.01 | XML-Filter-BufferText-1.01.tar.gz | https://cpan.metacpan.org/authors/id/R/RB/RBERJON/XML-Filter-BufferText-1.01.tar.gz
+Descargado XML-Filter-BufferText-1.01.tar.gz desde https://cpan.metacpan.org/authors/id/R/RB/RBERJON/XML-Filter-BufferText-1.01.tar.gz
++++XML-SAX-Writer-0.57.tar.gz
+XML::SAX::Writer	 Found version 0.57 | XML-SAX-Writer-0.57.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PERIGRIN/XML-SAX-Writer-0.57.tar.gz
+Descargado XML-SAX-Writer-0.57.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PERIGRIN/XML-SAX-Writer-0.57.tar.gz
++++Convert-ASN1-0.33.tar.gz
+Convert::ASN1	 Found version 0.33 | Convert-ASN1-0.33.tar.gz | https://cpan.metacpan.org/authors/id/T/TI/TIMLEGGE/Convert-ASN1-0.33.tar.gz
+Descargado Convert-ASN1-0.33.tar.gz desde https://cpan.metacpan.org/authors/id/T/TI/TIMLEGGE/Convert-ASN1-0.33.tar.gz
+No se pudo encontrar la versión de perl::ldap
++++Class-Loader-2.03.tar.gz
+Class::Loader	 Found version 2.03 | Class-Loader-2.03.tar.gz | https://cpan.metacpan.org/authors/id/V/VI/VIPUL/Class-Loader-2.03.tar.gz
+Descargado Class-Loader-2.03.tar.gz desde https://cpan.metacpan.org/authors/id/V/VI/VIPUL/Class-Loader-2.03.tar.gz
++++Convert-ASCII-Armour-1.4.tar.gz
+Convert::ASCII::Armour	 Found version 1.4 | Convert-ASCII-Armour-1.4.tar.gz | https://cpan.metacpan.org/authors/id/V/VI/VIPUL/Convert-ASCII-Armour-1.4.tar.gz
+Descargado Convert-ASCII-Armour-1.4.tar.gz desde https://cpan.metacpan.org/authors/id/V/VI/VIPUL/Convert-ASCII-Armour-1.4.tar.gz
++++Digest-BubbleBabble-0.02.tar.gz
+Digest::BubbleBabble	 Found version 0.02 | Digest-BubbleBabble-0.02.tar.gz | https://cpan.metacpan.org/authors/id/B/BT/BTROTT/Digest-BubbleBabble-0.02.tar.gz
+Descargado Digest-BubbleBabble-0.02.tar.gz desde https://cpan.metacpan.org/authors/id/B/BT/BTROTT/Digest-BubbleBabble-0.02.tar.gz
++++Crypt-Blowfish-2.14.tar.gz
+Crypt::Blowfish	 Found version 2.14 | Crypt-Blowfish-2.14.tar.gz | https://cpan.metacpan.org/authors/id/D/DP/DPARIS/Crypt-Blowfish-2.14.tar.gz
+Descargado Crypt-Blowfish-2.14.tar.gz desde https://cpan.metacpan.org/authors/id/D/DP/DPARIS/Crypt-Blowfish-2.14.tar.gz
++++Crypt-CBC-3.04.tar.gz
+Crypt::CBC	 Found version 3.04 | Crypt-CBC-3.04.tar.gz | https://cpan.metacpan.org/authors/id/L/LD/LDS/Crypt-CBC-3.04.tar.gz
+Descargado Crypt-CBC-3.04.tar.gz desde https://cpan.metacpan.org/authors/id/L/LD/LDS/Crypt-CBC-3.04.tar.gz
++++Math-Pari-2.030523.tar.gz
+Math::Pari	 Found version 2.030523 | Math-Pari-2.030523.tar.gz | https://cpan.metacpan.org/authors/id/I/IL/ILYAZ/modules/Math-Pari-2.030523.tar.gz
+Descargado Math-Pari-2.030523.tar.gz desde https://cpan.metacpan.org/authors/id/I/IL/ILYAZ/modules/Math-Pari-2.030523.tar.gz
++++Crypt-Random-1.54.tar.gz
+Crypt::Random	 Found version 1.54 | Crypt-Random-1.54.tar.gz | https://cpan.metacpan.org/authors/id/V/VI/VIPUL/Crypt-Random-1.54.tar.gz
+Descargado Crypt-Random-1.54.tar.gz desde https://cpan.metacpan.org/authors/id/V/VI/VIPUL/Crypt-Random-1.54.tar.gz
++++Crypt-Primes-0.50.tar.gz
+Crypt::Primes	 Found version 0.50 | Crypt-Primes-0.50.tar.gz | https://cpan.metacpan.org/authors/id/V/VI/VIPUL/Crypt-Primes-0.50.tar.gz
+Descargado Crypt-Primes-0.50.tar.gz desde https://cpan.metacpan.org/authors/id/V/VI/VIPUL/Crypt-Primes-0.50.tar.gz
++++Data-Buffer-0.04.tar.gz
+Data::Buffer	 Found version 0.04 | Data-Buffer-0.04.tar.gz | https://cpan.metacpan.org/authors/id/B/BT/BTROTT/Data-Buffer-0.04.tar.gz
+Descargado Data-Buffer-0.04.tar.gz desde https://cpan.metacpan.org/authors/id/B/BT/BTROTT/Data-Buffer-0.04.tar.gz
++++Digest-MD2-2.04.tar.gz
+Digest::MD2	 Found version 2.04 | Digest-MD2-2.04.tar.gz | https://cpan.metacpan.org/authors/id/G/GA/GAAS/Digest-MD2-2.04.tar.gz
+Descargado Digest-MD2-2.04.tar.gz desde https://cpan.metacpan.org/authors/id/G/GA/GAAS/Digest-MD2-2.04.tar.gz
++++Sort-Versions-1.62.tar.gz
+Sort::Versions	 Found version 1.62 | Sort-Versions-1.62.tar.gz | https://cpan.metacpan.org/authors/id/N/NE/NEILB/Sort-Versions-1.62.tar.gz
+Descargado Sort-Versions-1.62.tar.gz desde https://cpan.metacpan.org/authors/id/N/NE/NEILB/Sort-Versions-1.62.tar.gz
++++Crypt-DES-2.07.tar.gz
+Crypt::DES	 Found version 2.07 | Crypt-DES-2.07.tar.gz | https://cpan.metacpan.org/authors/id/D/DP/DPARIS/Crypt-DES-2.07.tar.gz
+Descargado Crypt-DES-2.07.tar.gz desde https://cpan.metacpan.org/authors/id/D/DP/DPARIS/Crypt-DES-2.07.tar.gz
++++Tie-EncryptedHash-1.24.tar.gz
+Tie::EncryptedHash	 Found version 1.8 | Tie-EncryptedHash-1.24.tar.gz | https://cpan.metacpan.org/authors/id/V/VI/VIPUL/Tie-EncryptedHash-1.24.tar.gz
+Descargado Tie-EncryptedHash-1.24.tar.gz desde https://cpan.metacpan.org/authors/id/V/VI/VIPUL/Tie-EncryptedHash-1.24.tar.gz
++++Crypt-RSA-1.99.tar.gz
+Crypt::RSA	 Found version 1.99 | Crypt-RSA-1.99.tar.gz | https://cpan.metacpan.org/authors/id/V/VI/VIPUL/Crypt-RSA-1.99.tar.gz
+Descargado Crypt-RSA-1.99.tar.gz desde https://cpan.metacpan.org/authors/id/V/VI/VIPUL/Crypt-RSA-1.99.tar.gz
++++String-CRC32-2.100.tar.gz
+String::CRC32	 Found version 2.100 | String-CRC32-2.100.tar.gz | https://cpan.metacpan.org/authors/id/L/LE/LEEJO/String-CRC32-2.100.tar.gz
+Descargado String-CRC32-2.100.tar.gz desde https://cpan.metacpan.org/authors/id/L/LE/LEEJO/String-CRC32-2.100.tar.gz
++++Math-GMP-2.25.tar.gz
+Math::GMP	 Found version 2.25 | Math-GMP-2.25.tar.gz | https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/Math-GMP-2.25.tar.gz
+Descargado Math-GMP-2.25.tar.gz desde https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/Math-GMP-2.25.tar.gz
+No se pudo encontrar la versión de Crypt::IDEA
++++Class-ErrorHandler-0.04.tar.gz
+Class::ErrorHandler	 Found version 0.04 | Class-ErrorHandler-0.04.tar.gz | https://cpan.metacpan.org/authors/id/T/TO/TOKUHIROM/Class-ErrorHandler-0.04.tar.gz
+Descargado Class-ErrorHandler-0.04.tar.gz desde https://cpan.metacpan.org/authors/id/T/TO/TOKUHIROM/Class-ErrorHandler-0.04.tar.gz
++++Crypt-DES_EDE3-0.01.tar.gz
+Crypt::DES_EDE3	 Found version 0.01 | Crypt-DES_EDE3-0.01.tar.gz | https://cpan.metacpan.org/authors/id/B/BT/BTROTT/Crypt-DES_EDE3-0.01.tar.gz
+Descargado Crypt-DES_EDE3-0.01.tar.gz desde https://cpan.metacpan.org/authors/id/B/BT/BTROTT/Crypt-DES_EDE3-0.01.tar.gz
++++Convert-PEM-0.08.tar.gz
+Convert::PEM	 Found version 0.08 | Convert-PEM-0.08.tar.gz | https://cpan.metacpan.org/authors/id/B/BT/BTROTT/Convert-PEM-0.08.tar.gz
+Descargado Convert-PEM-0.08.tar.gz desde https://cpan.metacpan.org/authors/id/B/BT/BTROTT/Convert-PEM-0.08.tar.gz
++++Math-BigRat-0.2624.tar.gz
+Math::BigRat	 Found version 0.2624 | Math-BigRat-0.2624.tar.gz | https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/Math-BigRat-0.2624.tar.gz
+Descargado Math-BigRat-0.2624.tar.gz desde https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/Math-BigRat-0.2624.tar.gz
++++Math-BigInt-1.999838.tar.gz
+Math::BigInt	 Found version 1.999838 | Math-BigInt-1.999838.tar.gz | https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/Math-BigInt-1.999838.tar.gz
+Descargado Math-BigInt-1.999838.tar.gz desde https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/Math-BigInt-1.999838.tar.gz
++++bignum-0.66.tar.gz
+bignum	 Found version 0.66 | bignum-0.66.tar.gz | https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/bignum-0.66.tar.gz
+Descargado bignum-0.66.tar.gz desde https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/bignum-0.66.tar.gz
++++Probe-Perl-0.03.tar.gz
+Probe::Perl	 Found version 0.03 | Probe-Perl-0.03.tar.gz | https://cpan.metacpan.org/authors/id/K/KW/KWILLIAMS/Probe-Perl-0.03.tar.gz
+Descargado Probe-Perl-0.03.tar.gz desde https://cpan.metacpan.org/authors/id/K/KW/KWILLIAMS/Probe-Perl-0.03.tar.gz
++++IPC-Run3-0.048.tar.gz
+IPC::Run3	 Found version 0.048 | IPC-Run3-0.048.tar.gz | https://cpan.metacpan.org/authors/id/R/RJ/RJBS/IPC-Run3-0.048.tar.gz
+Descargado IPC-Run3-0.048.tar.gz desde https://cpan.metacpan.org/authors/id/R/RJ/RJBS/IPC-Run3-0.048.tar.gz
++++Test-Script-1.29.tar.gz
+Test::Script	 Found version 1.29 | Test-Script-1.29.tar.gz | https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Test-Script-1.29.tar.gz
+Descargado Test-Script-1.29.tar.gz desde https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Test-Script-1.29.tar.gz
++++File-Which-1.27.tar.gz
+File::Which	 Found version 1.27 | File-Which-1.27.tar.gz | https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/File-Which-1.27.tar.gz
+Descargado File-Which-1.27.tar.gz desde https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/File-Which-1.27.tar.gz
++++Math-BigInt-Pari-1.3011.tar.gz
+Math::BigInt::Pari	 Found version 1.3011 | Math-BigInt-Pari-1.3011.tar.gz | https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/Math-BigInt-Pari-1.3011.tar.gz
+Descargado Math-BigInt-Pari-1.3011.tar.gz desde https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/Math-BigInt-Pari-1.3011.tar.gz
++++Math-BigInt-GMP-1.6012.tar.gz
+Math::BigInt::GMP	 Found version 1.6012 | Math-BigInt-GMP-1.6012.tar.gz | https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/Math-BigInt-GMP-1.6012.tar.gz
+Descargado Math-BigInt-GMP-1.6012.tar.gz desde https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/Math-BigInt-GMP-1.6012.tar.gz
++++Crypt-DH-0.07.tar.gz
+Crypt::DH	 Found version 0.07 | Crypt-DH-0.07.tar.gz | https://cpan.metacpan.org/authors/id/M/MI/MITHALDU/Crypt-DH-0.07.tar.gz
+Descargado Crypt-DH-0.07.tar.gz desde https://cpan.metacpan.org/authors/id/M/MI/MITHALDU/Crypt-DH-0.07.tar.gz
++++Crypt-DSA-1.17.tar.gz
+Crypt::DSA	 Found version 1.17 | Crypt-DSA-1.17.tar.gz | https://cpan.metacpan.org/authors/id/A/AD/ADAMK/Crypt-DSA-1.17.tar.gz
+Descargado Crypt-DSA-1.17.tar.gz desde https://cpan.metacpan.org/authors/id/A/AD/ADAMK/Crypt-DSA-1.17.tar.gz
++++Net-SSH-Perl-2.14.tar.gz
+Net::SSH::Perl	 Found version 2.14 | Net-SSH-Perl-2.14.tar.gz | https://cpan.metacpan.org/authors/id/S/SC/SCHWIGON/Net-SSH-Perl-2.14.tar.gz
+Descargado Net-SSH-Perl-2.14.tar.gz desde https://cpan.metacpan.org/authors/id/S/SC/SCHWIGON/Net-SSH-Perl-2.14.tar.gz
++++IPC-Shareable-1.13.tar.gz
+IPC::Shareable	 Found version 1.13 | IPC-Shareable-1.13.tar.gz | https://cpan.metacpan.org/authors/id/S/ST/STEVEB/IPC-Shareable-1.13.tar.gz
+Descargado IPC-Shareable-1.13.tar.gz desde https://cpan.metacpan.org/authors/id/S/ST/STEVEB/IPC-Shareable-1.13.tar.gz
++++common-sense-3.75.tar.gz
+common::sense	 Found version 3.75 | common-sense-3.75.tar.gz | https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/common-sense-3.75.tar.gz
+Descargado common-sense-3.75.tar.gz desde https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/common-sense-3.75.tar.gz
++++JSON-XS-4.03.tar.gz
+JSON::XS	 Found version 4.03 | JSON-XS-4.03.tar.gz | https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/JSON-XS-4.03.tar.gz
+Descargado JSON-XS-4.03.tar.gz desde https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/JSON-XS-4.03.tar.gz
++++JSON-4.10.tar.gz
+JSON	 Found version 4.10 | JSON-4.10.tar.gz | https://cpan.metacpan.org/authors/id/I/IS/ISHIGAKI/JSON-4.10.tar.gz
+Descargado JSON-4.10.tar.gz desde https://cpan.metacpan.org/authors/id/I/IS/ISHIGAKI/JSON-4.10.tar.gz
++++XML-LibXML-2.0208.tar.gz
+XML::LibXML	 Found version 2.0208 | XML-LibXML-2.0208.tar.gz | https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/XML-LibXML-2.0208.tar.gz
+Descargado XML-LibXML-2.0208.tar.gz desde https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/XML-LibXML-2.0208.tar.gz
++++Net-SMTP-TLS-0.12.tar.gz
+Net::SMTP::TLS	 Found version 0.12 | Net-SMTP-TLS-0.12.tar.gz | https://cpan.metacpan.org/authors/id/A/AW/AWESTHOLM/Net-SMTP-TLS-0.12.tar.gz
+Descargado Net-SMTP-TLS-0.12.tar.gz desde https://cpan.metacpan.org/authors/id/A/AW/AWESTHOLM/Net-SMTP-TLS-0.12.tar.gz
++++Device-Modem-1.59.tar.gz
+Device::Modem	 Found version 1.59 | Device-Modem-1.59.tar.gz | https://cpan.metacpan.org/authors/id/C/CO/COSIMO/Device-Modem-1.59.tar.gz
+Descargado Device-Modem-1.59.tar.gz desde https://cpan.metacpan.org/authors/id/C/CO/COSIMO/Device-Modem-1.59.tar.gz
++++Device-Gsm-1.61.tar.gz
+Device::Gsm	 Found version 1.61 | Device-Gsm-1.61.tar.gz | https://cpan.metacpan.org/authors/id/C/CO/COSIMO/Device-Gsm-1.61.tar.gz
+Descargado Device-Gsm-1.61.tar.gz desde https://cpan.metacpan.org/authors/id/C/CO/COSIMO/Device-Gsm-1.61.tar.gz
++++Object-Destroyer-2.02.tar.gz
+Object::Destroyer	 Found version 2.02 | Object-Destroyer-2.02.tar.gz | https://cpan.metacpan.org/authors/id/S/SI/SIMBABQUE/Object-Destroyer-2.02.tar.gz
+Descargado Object-Destroyer-2.02.tar.gz desde https://cpan.metacpan.org/authors/id/S/SI/SIMBABQUE/Object-Destroyer-2.02.tar.gz
++++IO-CaptureOutput-1.1105.tar.gz
+IO::CaptureOutput	 Found version 1.1105 | IO-CaptureOutput-1.1105.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/IO-CaptureOutput-1.1105.tar.gz
+Descargado IO-CaptureOutput-1.1105.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/IO-CaptureOutput-1.1105.tar.gz
++++Mail-POP3Client-2.21.tar.gz
+Mail::POP3Client	 Found version 2.21 | Mail-POP3Client-2.21.tar.gz | https://cpan.metacpan.org/authors/id/S/SD/SDOWD/Mail-POP3Client-2.21.tar.gz
+Descargado Mail-POP3Client-2.21.tar.gz desde https://cpan.metacpan.org/authors/id/S/SD/SDOWD/Mail-POP3Client-2.21.tar.gz
++++Parse-Apache-ServerStatus-0.11.tar.gz
+Parse::Apache::ServerStatus	 Found version 0.11 | Parse-Apache-ServerStatus-0.11.tar.gz | https://cpan.metacpan.org/authors/id/B/BL/BLOONIX/Parse-Apache-ServerStatus-0.11.tar.gz
+Descargado Parse-Apache-ServerStatus-0.11.tar.gz desde https://cpan.metacpan.org/authors/id/B/BL/BLOONIX/Parse-Apache-ServerStatus-0.11.tar.gz
++++IO-Tty-1.17.tar.gz
+IO::Tty	 Found version 1.17 | IO-Tty-1.17.tar.gz | https://cpan.metacpan.org/authors/id/T/TO/TODDR/IO-Tty-1.17.tar.gz
+Descargado IO-Tty-1.17.tar.gz desde https://cpan.metacpan.org/authors/id/T/TO/TODDR/IO-Tty-1.17.tar.gz
++++Net-OpenSSH-0.83.tar.gz
+Net::OpenSSH	 Found version 0.83 | Net-OpenSSH-0.83.tar.gz | https://cpan.metacpan.org/authors/id/S/SA/SALVA/Net-OpenSSH-0.83.tar.gz
+Descargado Net-OpenSSH-0.83.tar.gz desde https://cpan.metacpan.org/authors/id/S/SA/SALVA/Net-OpenSSH-0.83.tar.gz
++++Text-Diff-1.45.tar.gz
+Text::Diff	 Found version 1.45 | Text-Diff-1.45.tar.gz | https://cpan.metacpan.org/authors/id/N/NE/NEILB/Text-Diff-1.45.tar.gz
+Descargado Text-Diff-1.45.tar.gz desde https://cpan.metacpan.org/authors/id/N/NE/NEILB/Text-Diff-1.45.tar.gz
++++Term-Clui-1.76.tar.gz
+Term::Clui	 Found version 1.76 | Term-Clui-1.76.tar.gz | https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Term-Clui-1.76.tar.gz
+Descargado Term-Clui-1.76.tar.gz desde https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Term-Clui-1.76.tar.gz
++++Perl-OSType-1.010.tar.gz
+Perl::OSType	 Found version 1.010 | Perl-OSType-1.010.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Perl-OSType-1.010.tar.gz
+Descargado Perl-OSType-1.010.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Perl-OSType-1.010.tar.gz
++++version-0.9929.tar.gz
+version	 Found version 0.9929 | version-0.9929.tar.gz | https://cpan.metacpan.org/authors/id/L/LE/LEONT/version-0.9929.tar.gz
+Descargado version-0.9929.tar.gz desde https://cpan.metacpan.org/authors/id/L/LE/LEONT/version-0.9929.tar.gz
++++CPAN-Meta-YAML-0.018.tar.gz
+CPAN::Meta::YAML	 Found version 0.018 | CPAN-Meta-YAML-0.018.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/CPAN-Meta-YAML-0.018.tar.gz
+Descargado CPAN-Meta-YAML-0.018.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/CPAN-Meta-YAML-0.018.tar.gz
++++CPAN-Meta-2.150010.tar.gz
+CPAN::Meta	 Found version 2.150010 | CPAN-Meta-2.150010.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/CPAN-Meta-2.150010.tar.gz
+Descargado CPAN-Meta-2.150010.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/CPAN-Meta-2.150010.tar.gz
++++CPAN-Meta-2.150010.tar.gz
+Parse::CPAN::Meta	 Found version 2.150010 | CPAN-Meta-2.150010.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/CPAN-Meta-2.150010.tar.gz
+Descargado CPAN-Meta-2.150010.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/CPAN-Meta-2.150010.tar.gz
++++ExtUtils-CBuilder-0.280236.tar.gz
+ExtUtils::CBuilder	 Found version 0.280236 | ExtUtils-CBuilder-0.280236.tar.gz | https://cpan.metacpan.org/authors/id/A/AM/AMBS/ExtUtils-CBuilder-0.280236.tar.gz
+Descargado ExtUtils-CBuilder-0.280236.tar.gz desde https://cpan.metacpan.org/authors/id/A/AM/AMBS/ExtUtils-CBuilder-0.280236.tar.gz
++++ExtUtils-ParseXS-3.44.tar.gz
+ExtUtils::ParseXS	 Found version 3.44 | ExtUtils-ParseXS-3.44.tar.gz | https://cpan.metacpan.org/authors/id/X/XS/XSAWYERX/ExtUtils-ParseXS-3.44.tar.gz
+Descargado ExtUtils-ParseXS-3.44.tar.gz desde https://cpan.metacpan.org/authors/id/X/XS/XSAWYERX/ExtUtils-ParseXS-3.44.tar.gz
++++Module-Metadata-1.000038.tar.gz
+Module::Metadata	 Found version 1.000038 | Module-Metadata-1.000038.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/Module-Metadata-1.000038.tar.gz
+Descargado Module-Metadata-1.000038.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/Module-Metadata-1.000038.tar.gz
++++File-Flock-2014.01.tar.gz
+File::Flock	 Found version 2014.01 | File-Flock-2014.01.tar.gz | https://cpan.metacpan.org/authors/id/M/MU/MUIR/modules/File-Flock-2014.01.tar.gz
+Descargado File-Flock-2014.01.tar.gz desde https://cpan.metacpan.org/authors/id/M/MU/MUIR/modules/File-Flock-2014.01.tar.gz
++++Log-Any-1.715.tar.gz
+Log::Any	 Found version 1.715 | Log-Any-1.715.tar.gz | https://cpan.metacpan.org/authors/id/P/PR/PREACTION/Log-Any-1.715.tar.gz
+Descargado Log-Any-1.715.tar.gz desde https://cpan.metacpan.org/authors/id/P/PR/PREACTION/Log-Any-1.715.tar.gz
+No se pudo encontrar la versión de Rinci
++++UUID-Random-0.04.tar.gz
+UUID::Random	 Found version 0.04 | UUID-Random-0.04.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PERLER/UUID-Random-0.04.tar.gz
+Descargado UUID-Random-0.04.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PERLER/UUID-Random-0.04.tar.gz
++++File-chdir-0.1011.tar.gz
+File::chdir	 Found version 0.1011 | File-chdir-0.1011.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/File-chdir-0.1011.tar.gz
+Descargado File-chdir-0.1011.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/File-chdir-0.1011.tar.gz
++++Unix-Passwd-File-0.251.tar.gz
+Unix::Passwd::File	 Found version 0.251 | Unix-Passwd-File-0.251.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PERLANCAR/Unix-Passwd-File-0.251.tar.gz
+Descargado Unix-Passwd-File-0.251.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PERLANCAR/Unix-Passwd-File-0.251.tar.gz
++++Nmap-Parser-1.37.tar.gz
+Nmap::Parser	 Found version 1.37 | Nmap-Parser-1.37.tar.gz | https://cpan.metacpan.org/authors/id/A/AP/APERSAUD/Nmap-Parser-1.37.tar.gz
+Descargado Nmap-Parser-1.37.tar.gz desde https://cpan.metacpan.org/authors/id/A/AP/APERSAUD/Nmap-Parser-1.37.tar.gz
++++List-MoreUtils-0.430.tar.gz
+List::MoreUtils	 Found version 0.430 | List-MoreUtils-0.430.tar.gz | https://cpan.metacpan.org/authors/id/R/RE/REHSACK/List-MoreUtils-0.430.tar.gz
+Descargado List-MoreUtils-0.430.tar.gz desde https://cpan.metacpan.org/authors/id/R/RE/REHSACK/List-MoreUtils-0.430.tar.gz
++++Parse-RecDescent-1.967015.tar.gz
+Parse::RecDescent	 Found version 1.967015 | Parse-RecDescent-1.967015.tar.gz | https://cpan.metacpan.org/authors/id/J/JT/JTBRAUN/Parse-RecDescent-1.967015.tar.gz
+Descargado Parse-RecDescent-1.967015.tar.gz desde https://cpan.metacpan.org/authors/id/J/JT/JTBRAUN/Parse-RecDescent-1.967015.tar.gz
++++Net-IMAP-Simple-1.2212.tar.gz
+Net::IMAP::Simple	 Found version 1.2212 | Net-IMAP-Simple-1.2212.tar.gz | https://cpan.metacpan.org/authors/id/J/JE/JETTERO/Net-IMAP-Simple-1.2212.tar.gz
+Descargado Net-IMAP-Simple-1.2212.tar.gz desde https://cpan.metacpan.org/authors/id/J/JE/JETTERO/Net-IMAP-Simple-1.2212.tar.gz
++++Net-IMAP-Simple-SSL-1.3.tar.gz
+Net::IMAP::Simple::SSL	 Found version 1.3 | Net-IMAP-Simple-SSL-1.3.tar.gz | https://cpan.metacpan.org/authors/id/C/CW/CWEST/Net-IMAP-Simple-SSL-1.3.tar.gz
+Descargado Net-IMAP-Simple-SSL-1.3.tar.gz desde https://cpan.metacpan.org/authors/id/C/CW/CWEST/Net-IMAP-Simple-SSL-1.3.tar.gz
++++Net-Whois-Raw-2.99037.tar.gz
+Net::Whois::Raw	 Found version 2.99037 | Net-Whois-Raw-2.99037.tar.gz | https://cpan.metacpan.org/authors/id/N/NA/NALOBIN/Net-Whois-Raw-2.99037.tar.gz
+Descargado Net-Whois-Raw-2.99037.tar.gz desde https://cpan.metacpan.org/authors/id/N/NA/NALOBIN/Net-Whois-Raw-2.99037.tar.gz
++++WWW-Curl-4.17.tar.gz
+WWW::Curl	 Found version 4.17 | WWW-Curl-4.17.tar.gz | https://cpan.metacpan.org/authors/id/S/SZ/SZBALINT/WWW-Curl-4.17.tar.gz
+Descargado WWW-Curl-4.17.tar.gz desde https://cpan.metacpan.org/authors/id/S/SZ/SZBALINT/WWW-Curl-4.17.tar.gz
++++LWP-Curl-0.14.tar.gz
+LWP::Curl	 Found version 0.14 | LWP-Curl-0.14.tar.gz | https://cpan.metacpan.org/authors/id/L/LO/LORN/LWP-Curl-0.14.tar.gz
+Descargado LWP-Curl-0.14.tar.gz desde https://cpan.metacpan.org/authors/id/L/LO/LORN/LWP-Curl-0.14.tar.gz
++++File-ReadBackwards-1.06.tar.gz
+File::ReadBackwards	 Found version 1.06 | File-ReadBackwards-1.06.tar.gz | https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/File-ReadBackwards-1.06.tar.gz
+Descargado File-ReadBackwards-1.06.tar.gz desde https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/File-ReadBackwards-1.06.tar.gz
++++Parse-AccessLogEntry-0.06.tar.gz
+Parse::AccessLogEntry	 Found version 0.06 | Parse-AccessLogEntry-0.06.tar.gz | https://cpan.metacpan.org/authors/id/M/MS/MSLAGLE/Parse-AccessLogEntry-0.06.tar.gz
+Descargado Parse-AccessLogEntry-0.06.tar.gz desde https://cpan.metacpan.org/authors/id/M/MS/MSLAGLE/Parse-AccessLogEntry-0.06.tar.gz
++++Logfile-Rotate-1.04.tar.gz
+Logfile::Rotate	 Found version 1.05 | Logfile-Rotate-1.04.tar.gz | https://cpan.metacpan.org/authors/id/P/PA/PAULG/Logfile-Rotate-1.04.tar.gz
+Descargado Logfile-Rotate-1.04.tar.gz desde https://cpan.metacpan.org/authors/id/P/PA/PAULG/Logfile-Rotate-1.04.tar.gz
++++UUID-0.28.tar.gz
+UUID	 Found version 0.28 | UUID-0.28.tar.gz | https://cpan.metacpan.org/authors/id/J/JR/JRM/UUID-0.28.tar.gz
+Descargado UUID-0.28.tar.gz desde https://cpan.metacpan.org/authors/id/J/JR/JRM/UUID-0.28.tar.gz
++++Data-Dump-1.25.tar.gz
+Data::Dump	 Found version 1.25 | Data-Dump-1.25.tar.gz | https://cpan.metacpan.org/authors/id/G/GA/GARU/Data-Dump-1.25.tar.gz
+Descargado Data-Dump-1.25.tar.gz desde https://cpan.metacpan.org/authors/id/G/GA/GARU/Data-Dump-1.25.tar.gz
++++Class-MethodMaker-2.24.tar.gz
+Class::MethodMaker	 Found version 2.24 | Class-MethodMaker-2.24.tar.gz | https://cpan.metacpan.org/authors/id/S/SC/SCHWIGON/class-methodmaker/Class-MethodMaker-2.24.tar.gz
+Descargado Class-MethodMaker-2.24.tar.gz desde https://cpan.metacpan.org/authors/id/S/SC/SCHWIGON/class-methodmaker/Class-MethodMaker-2.24.tar.gz
++++YAML-LibYAML-0.87.tar.gz
+YAML::LibYAML	 Found version 0.87 | YAML-LibYAML-0.87.tar.gz | https://cpan.metacpan.org/authors/id/I/IN/INGY/YAML-LibYAML-0.87.tar.gz
+Descargado YAML-LibYAML-0.87.tar.gz desde https://cpan.metacpan.org/authors/id/I/IN/INGY/YAML-LibYAML-0.87.tar.gz
++++Capture-Tiny-0.48.tar.gz
+Capture::Tiny	 Found version 0.48 | Capture-Tiny-0.48.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Capture-Tiny-0.48.tar.gz
+Descargado Capture-Tiny-0.48.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Capture-Tiny-0.48.tar.gz
++++Net-RawIP-0.25.tar.gz
+Net::RawIP	 Found version 0.25 | Net-RawIP-0.25.tar.gz | https://cpan.metacpan.org/authors/id/S/SA/SAPER/Net-RawIP-0.25.tar.gz
+Descargado Net-RawIP-0.25.tar.gz desde https://cpan.metacpan.org/authors/id/S/SA/SAPER/Net-RawIP-0.25.tar.gz
++++IO-Capture-0.05.tar.gz
+IO::Capture	 Found version 0.05 | IO-Capture-0.05.tar.gz | https://cpan.metacpan.org/authors/id/R/RE/REYNOLDS/IO-Capture-0.05.tar.gz
+Descargado IO-Capture-0.05.tar.gz desde https://cpan.metacpan.org/authors/id/R/RE/REYNOLDS/IO-Capture-0.05.tar.gz
++++JSON-PP-4.16.tar.gz
+JSON::PP	 Found version 4.16 | JSON-PP-4.16.tar.gz | https://cpan.metacpan.org/authors/id/I/IS/ISHIGAKI/JSON-PP-4.16.tar.gz
+Descargado JSON-PP-4.16.tar.gz desde https://cpan.metacpan.org/authors/id/I/IS/ISHIGAKI/JSON-PP-4.16.tar.gz
++++Expect-1.35.tar.gz
+Expect	 Found version 1.35 | Expect-1.35.tar.gz | https://cpan.metacpan.org/authors/id/J/JA/JACOBY/Expect-1.35.tar.gz
+Descargado Expect-1.35.tar.gz desde https://cpan.metacpan.org/authors/id/J/JA/JACOBY/Expect-1.35.tar.gz
++++ExtUtils-PkgConfig-1.16.tar.gz
+ExtUtils::PkgConfig	 Found version 1.16 | ExtUtils-PkgConfig-1.16.tar.gz | https://cpan.metacpan.org/authors/id/X/XA/XAOC/ExtUtils-PkgConfig-1.16.tar.gz
+Descargado ExtUtils-PkgConfig-1.16.tar.gz desde https://cpan.metacpan.org/authors/id/X/XA/XAOC/ExtUtils-PkgConfig-1.16.tar.gz
++++Net-Curl-0.52.tar.gz
+Net::Curl	 Found version 0.52 | Net-Curl-0.52.tar.gz | https://cpan.metacpan.org/authors/id/S/SY/SYP/Net-Curl-0.52.tar.gz
+Descargado Net-Curl-0.52.tar.gz desde https://cpan.metacpan.org/authors/id/S/SY/SYP/Net-Curl-0.52.tar.gz
++++Net-SFTP-Foreign-1.93.tar.gz
+Net::SFTP::Foreign	 Found version 1.93 | Net-SFTP-Foreign-1.93.tar.gz | https://cpan.metacpan.org/authors/id/S/SA/SALVA/Net-SFTP-Foreign-1.93.tar.gz
+Descargado Net-SFTP-Foreign-1.93.tar.gz desde https://cpan.metacpan.org/authors/id/S/SA/SALVA/Net-SFTP-Foreign-1.93.tar.gz
++++File-Path-2.18.tar.gz
+File::Path	 Found version 2.18 | File-Path-2.18.tar.gz | https://cpan.metacpan.org/authors/id/J/JK/JKEENAN/File-Path-2.18.tar.gz
+Descargado File-Path-2.18.tar.gz desde https://cpan.metacpan.org/authors/id/J/JK/JKEENAN/File-Path-2.18.tar.gz
++++IO-Socket-SSL-2.081.tar.gz
+IO::Socket::SSL	 Found version 2.081 | IO-Socket-SSL-2.081.tar.gz | https://cpan.metacpan.org/authors/id/S/SU/SULLR/IO-Socket-SSL-2.081.tar.gz
+Descargado IO-Socket-SSL-2.081.tar.gz desde https://cpan.metacpan.org/authors/id/S/SU/SULLR/IO-Socket-SSL-2.081.tar.gz
++++Net-SSLeay-1.92.tar.gz
+Net::SSLeay	 Found version 1.92 | Net-SSLeay-1.92.tar.gz | https://cpan.metacpan.org/authors/id/C/CH/CHRISN/Net-SSLeay-1.92.tar.gz
+Descargado Net-SSLeay-1.92.tar.gz desde https://cpan.metacpan.org/authors/id/C/CH/CHRISN/Net-SSLeay-1.92.tar.gz
++++Inline-Files-0.71.tar.gz
+Inline::Files	 Found version 0.71 | Inline-Files-0.71.tar.gz | https://cpan.metacpan.org/authors/id/A/AM/AMBS/Inline-Files-0.71.tar.gz
+Descargado Inline-Files-0.71.tar.gz desde https://cpan.metacpan.org/authors/id/A/AM/AMBS/Inline-Files-0.71.tar.gz
++++Canary-Stability-2013.tar.gz
+Canary::Stability	 Found version 2013 | Canary-Stability-2013.tar.gz | https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/Canary-Stability-2013.tar.gz
+Descargado Canary-Stability-2013.tar.gz desde https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/Canary-Stability-2013.tar.gz
++++JSON-PP-4.16.tar.gz
+JSON::PP	 Found version 4.16 | JSON-PP-4.16.tar.gz | https://cpan.metacpan.org/authors/id/I/IS/ISHIGAKI/JSON-PP-4.16.tar.gz
+Descargado JSON-PP-4.16.tar.gz desde https://cpan.metacpan.org/authors/id/I/IS/ISHIGAKI/JSON-PP-4.16.tar.gz
++++Types-Serialiser-1.01.tar.gz
+Types::Serialiser	 Found version 1.01 | Types-Serialiser-1.01.tar.gz | https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/Types-Serialiser-1.01.tar.gz
+Descargado Types-Serialiser-1.01.tar.gz desde https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/Types-Serialiser-1.01.tar.gz
++++JSON-XS-4.03.tar.gz
+JSON::XS	 Found version 4.03 | JSON-XS-4.03.tar.gz | https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/JSON-XS-4.03.tar.gz
+Descargado JSON-XS-4.03.tar.gz desde https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/JSON-XS-4.03.tar.gz
++++JSON-MaybeXS-1.004005.tar.gz
+JSON::MaybeXS	 Found version 1.004005 | JSON-MaybeXS-1.004005.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/JSON-MaybeXS-1.004005.tar.gz
+Descargado JSON-MaybeXS-1.004005.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/JSON-MaybeXS-1.004005.tar.gz
++++WWW-Telegram-BotAPI-0.12.tar.gz
+WWW::Telegram::BotAPI	 Found version 0.12 | WWW-Telegram-BotAPI-0.12.tar.gz | https://cpan.metacpan.org/authors/id/R/RO/ROBERTOF/WWW-Telegram-BotAPI-0.12.tar.gz
+Descargado WWW-Telegram-BotAPI-0.12.tar.gz desde https://cpan.metacpan.org/authors/id/R/RO/ROBERTOF/WWW-Telegram-BotAPI-0.12.tar.gz
++++Excel-Writer-XLSX-1.11.tar.gz
+Excel::Writer::XLSX	 Found version 1.11 | Excel-Writer-XLSX-1.11.tar.gz | https://cpan.metacpan.org/authors/id/J/JM/JMCNAMARA/Excel-Writer-XLSX-1.11.tar.gz
+Descargado Excel-Writer-XLSX-1.11.tar.gz desde https://cpan.metacpan.org/authors/id/J/JM/JMCNAMARA/Excel-Writer-XLSX-1.11.tar.gz
++++HTML-TableExtract-2.15.tar.gz
+HTML::TableExtract	 Found version 2.15 | HTML-TableExtract-2.15.tar.gz | https://cpan.metacpan.org/authors/id/M/MS/MSISK/HTML-TableExtract-2.15.tar.gz
+Descargado HTML-TableExtract-2.15.tar.gz desde https://cpan.metacpan.org/authors/id/M/MS/MSISK/HTML-TableExtract-2.15.tar.gz
++++YAML-1.30.tar.gz
+YAML	 Found version 1.30 | YAML-1.30.tar.gz | https://cpan.metacpan.org/authors/id/T/TI/TINITA/YAML-1.30.tar.gz
+Descargado YAML-1.30.tar.gz desde https://cpan.metacpan.org/authors/id/T/TI/TINITA/YAML-1.30.tar.gz
++++Filesys-SmbClient-3.2.tar.gz
+Filesys::SmbClient	 Found version 3.2 | Filesys-SmbClient-3.2.tar.gz | https://cpan.metacpan.org/authors/id/A/AL/ALIAN/Filesys-SmbClient-3.2.tar.gz
+Descargado Filesys-SmbClient-3.2.tar.gz desde https://cpan.metacpan.org/authors/id/A/AL/ALIAN/Filesys-SmbClient-3.2.tar.gz
+No se pudo encontrar la versión de DBD::Pg
++++HTML-Strip-2.12.tar.gz
+HTML::Strip	 Found version 2.12 | HTML-Strip-2.12.tar.gz | https://cpan.metacpan.org/authors/id/K/KI/KILINRAX/HTML-Strip-2.12.tar.gz
+Descargado HTML-Strip-2.12.tar.gz desde https://cpan.metacpan.org/authors/id/K/KI/KILINRAX/HTML-Strip-2.12.tar.gz
++++Authen-SASL-2.16.tar.gz
+Authen::SASL	 Found version 2.16 | Authen-SASL-2.16.tar.gz | https://cpan.metacpan.org/authors/id/G/GB/GBARR/Authen-SASL-2.16.tar.gz
+Descargado Authen-SASL-2.16.tar.gz desde https://cpan.metacpan.org/authors/id/G/GB/GBARR/Authen-SASL-2.16.tar.gz
+No se pudo encontrar la versión de libnet
++++Mail-IMAPClient-3.43.tar.gz
+Mail::IMAPClient	 Found version 3.43 | Mail-IMAPClient-3.43.tar.gz | https://cpan.metacpan.org/authors/id/P/PL/PLOBBES/Mail-IMAPClient-3.43.tar.gz
+Descargado Mail-IMAPClient-3.43.tar.gz desde https://cpan.metacpan.org/authors/id/P/PL/PLOBBES/Mail-IMAPClient-3.43.tar.gz
++++Test-Fatal-0.017.tar.gz
+Test::Fatal	 Found version 0.017 | Test-Fatal-0.017.tar.gz | https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Test-Fatal-0.017.tar.gz
+Descargado Test-Fatal-0.017.tar.gz desde https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Test-Fatal-0.017.tar.gz
++++Test-Needs-0.002010.tar.gz
+Test::Needs	 Found version 0.002010 | Test-Needs-0.002010.tar.gz | https://cpan.metacpan.org/authors/id/H/HA/HAARG/Test-Needs-0.002010.tar.gz
+Descargado Test-Needs-0.002010.tar.gz desde https://cpan.metacpan.org/authors/id/H/HA/HAARG/Test-Needs-0.002010.tar.gz
++++Test-Warnings-0.031.tar.gz
+Test::Warnings	 Found version 0.031 | Test-Warnings-0.031.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-Warnings-0.031.tar.gz
+Descargado Test-Warnings-0.031.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-Warnings-0.031.tar.gz
++++Test-Memory-Cycle-1.06.tar.gz
+Test::Memory::Cycle	 Found version 1.06 | Test-Memory-Cycle-1.06.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/Test-Memory-Cycle-1.06.tar.gz
+Descargado Test-Memory-Cycle-1.06.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/Test-Memory-Cycle-1.06.tar.gz
++++Test-Output-1.033.tar.gz
+Test::Output	 Found version 1.033 | Test-Output-1.033.tar.gz | https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-Output-1.033.tar.gz
+Descargado Test-Output-1.033.tar.gz desde https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-Output-1.033.tar.gz
++++Test-Taint-1.08.tar.gz
+Test::Taint	 Found version 1.08 | Test-Taint-1.08.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/Test-Taint-1.08.tar.gz
+Descargado Test-Taint-1.08.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/Test-Taint-1.08.tar.gz
++++Test-Script-1.29.tar.gz
+Test::Script	 Found version 1.29 | Test-Script-1.29.tar.gz | https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Test-Script-1.29.tar.gz
+Descargado Test-Script-1.29.tar.gz desde https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Test-Script-1.29.tar.gz
++++Test-More-UTF8-0.05.tar.gz
+Test::More::UTF8	 Found version 0.05 | Test-More-UTF8-0.05.tar.gz | https://cpan.metacpan.org/authors/id/M/MO/MONS/Test-More-UTF8-0.05.tar.gz
+Descargado Test-More-UTF8-0.05.tar.gz desde https://cpan.metacpan.org/authors/id/M/MO/MONS/Test-More-UTF8-0.05.tar.gz
++++Test-YAML-1.07.tar.gz
+Test::YAML	 Found version 1.07 | Test-YAML-1.07.tar.gz | https://cpan.metacpan.org/authors/id/T/TI/TINITA/Test-YAML-1.07.tar.gz
+Descargado Test-YAML-1.07.tar.gz desde https://cpan.metacpan.org/authors/id/T/TI/TINITA/Test-YAML-1.07.tar.gz
++++Module-Build-Tiny-0.045.tar.gz
+Module::Build::Tiny	 Found version 0.045 | Module-Build-Tiny-0.045.tar.gz | https://cpan.metacpan.org/authors/id/L/LE/LEONT/Module-Build-Tiny-0.045.tar.gz
+Descargado Module-Build-Tiny-0.045.tar.gz desde https://cpan.metacpan.org/authors/id/L/LE/LEONT/Module-Build-Tiny-0.045.tar.gz
++++Path-Tiny-0.144.tar.gz
+Path::Tiny	 Found version 0.144 | Path-Tiny-0.144.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Path-Tiny-0.144.tar.gz
+Descargado Path-Tiny-0.144.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Path-Tiny-0.144.tar.gz
++++Carp-Assert-More-2.2.0.tar.gz
+Carp::Assert::More	 Found version 2.2.0 | Carp-Assert-More-2.2.0.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/Carp-Assert-More-2.2.0.tar.gz
+Descargado Carp-Assert-More-2.2.0.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/Carp-Assert-More-2.2.0.tar.gz
++++HTTP-Server-Simple-0.52.tar.gz
+HTTP::Server::Simple	 Found version 0.52 | HTTP-Server-Simple-0.52.tar.gz | https://cpan.metacpan.org/authors/id/B/BP/BPS/HTTP-Server-Simple-0.52.tar.gz
+Descargado HTTP-Server-Simple-0.52.tar.gz desde https://cpan.metacpan.org/authors/id/B/BP/BPS/HTTP-Server-Simple-0.52.tar.gz
+No se pudo encontrar la versión de HTTP::Server::Simple::CGI
++++Test-Pod-1.52.tar.gz
+Test::Pod	 Found version 1.52 | Test-Pod-1.52.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-Pod-1.52.tar.gz
+Descargado Test-Pod-1.52.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-Pod-1.52.tar.gz
++++Test-Requires-0.11.tar.gz
+Test::Requires	 Found version 0.11 | Test-Requires-0.11.tar.gz | https://cpan.metacpan.org/authors/id/T/TO/TOKUHIROM/Test-Requires-0.11.tar.gz
+Descargado Test-Requires-0.11.tar.gz desde https://cpan.metacpan.org/authors/id/T/TO/TOKUHIROM/Test-Requires-0.11.tar.gz
++++Test-RequiresInternet-0.05.tar.gz
+Test::RequiresInternet	 Found version 0.05 | Test-RequiresInternet-0.05.tar.gz | https://cpan.metacpan.org/authors/id/M/MA/MALLEN/Test-RequiresInternet-0.05.tar.gz
+Descargado Test-RequiresInternet-0.05.tar.gz desde https://cpan.metacpan.org/authors/id/M/MA/MALLEN/Test-RequiresInternet-0.05.tar.gz
++++Test-SharedFork-0.35.tar.gz
+Test::SharedFork	 Found version 0.35 | Test-SharedFork-0.35.tar.gz | https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Test-SharedFork-0.35.tar.gz
+Descargado Test-SharedFork-0.35.tar.gz desde https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Test-SharedFork-0.35.tar.gz
++++IPC-Run-20220807.0.tar.gz
+IPC::Run	 Found version 20220807.0 | IPC-Run-20220807.0.tar.gz | https://cpan.metacpan.org/authors/id/T/TO/TODDR/IPC-Run-20220807.0.tar.gz
+Descargado IPC-Run-20220807.0.tar.gz desde https://cpan.metacpan.org/authors/id/T/TO/TODDR/IPC-Run-20220807.0.tar.gz
++++Class-Inspector-1.36.tar.gz
+Class::Inspector	 Found version 1.36 | Class-Inspector-1.36.tar.gz | https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Class-Inspector-1.36.tar.gz
+Descargado Class-Inspector-1.36.tar.gz desde https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Class-Inspector-1.36.tar.gz
+No se pudo encontrar la versión de IO::SessionData
++++Task-Weaken-1.06.tar.gz
+Task::Weaken	 Found version 1.06 | Task-Weaken-1.06.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/Task-Weaken-1.06.tar.gz
+Descargado Task-Weaken-1.06.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/Task-Weaken-1.06.tar.gz
++++XML-Parser-Lite-0.722.tar.gz
+XML::Parser::Lite	 Found version 0.722 | XML-Parser-Lite-0.722.tar.gz | https://cpan.metacpan.org/authors/id/P/PH/PHRED/XML-Parser-Lite-0.722.tar.gz
+Descargado XML-Parser-Lite-0.722.tar.gz desde https://cpan.metacpan.org/authors/id/P/PH/PHRED/XML-Parser-Lite-0.722.tar.gz
++++Time-ParseDate-2015.103.tar.gz
+Time::ParseDate	 Found version 2015.103 | Time-ParseDate-2015.103.tar.gz | https://cpan.metacpan.org/authors/id/M/MU/MUIR/modules/Time-ParseDate-2015.103.tar.gz
+Descargado Time-ParseDate-2015.103.tar.gz desde https://cpan.metacpan.org/authors/id/M/MU/MUIR/modules/Time-ParseDate-2015.103.tar.gz
++++Config::Tiny-2.29.tar.gz
+Config::Tiny	 Found version 2.29 | Config::Tiny-2.29.tar.gz | https://cpan.metacpan.org/authors/id/Config::Tiny-2.29.tar.gz
+Descargado Config::Tiny-2.29.tar.gz desde https://cpan.metacpan.org/authors/id/Config::Tiny-2.29.tar.gz
++++Params-Util-1.102.tar.gz
+Params::Util	 Found version 1.102 | Params-Util-1.102.tar.gz | https://cpan.metacpan.org/authors/id/R/RE/REHSACK/Params-Util-1.102.tar.gz
+Descargado Params-Util-1.102.tar.gz desde https://cpan.metacpan.org/authors/id/R/RE/REHSACK/Params-Util-1.102.tar.gz
++++File-Copy-Recursive-0.45.tar.gz
+File::Copy::Recursive	 Found version 0.45 | File-Copy-Recursive-0.45.tar.gz | https://cpan.metacpan.org/authors/id/D/DM/DMUEY/File-Copy-Recursive-0.45.tar.gz
+Descargado File-Copy-Recursive-0.45.tar.gz desde https://cpan.metacpan.org/authors/id/D/DM/DMUEY/File-Copy-Recursive-0.45.tar.gz
++++Config::Tiny-2.29.tar.gz
+Config::Tiny	 Found version 2.29 | Config::Tiny-2.29.tar.gz | https://cpan.metacpan.org/authors/id/Config::Tiny-2.29.tar.gz
+Descargado Config::Tiny-2.29.tar.gz desde https://cpan.metacpan.org/authors/id/Config::Tiny-2.29.tar.gz
++++File-chmod-0.42.tar.gz
+File::chmod	 Found version 0.42 | File-chmod-0.42.tar.gz | https://cpan.metacpan.org/authors/id/X/XE/XENO/File-chmod-0.42.tar.gz
+Descargado File-chmod-0.42.tar.gz desde https://cpan.metacpan.org/authors/id/X/XE/XENO/File-chmod-0.42.tar.gz
++++Path-Tiny-0.144.tar.gz
+Path::Tiny	 Found version 0.144 | Path-Tiny-0.144.tar.gz | https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Path-Tiny-0.144.tar.gz
+Descargado Path-Tiny-0.144.tar.gz desde https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Path-Tiny-0.144.tar.gz
++++B-COW-0.007.tar.gz
+B::COW	 Found version 0.007 | B-COW-0.007.tar.gz | https://cpan.metacpan.org/authors/id/A/AT/ATOOMIC/B-COW-0.007.tar.gz
+Descargado B-COW-0.007.tar.gz desde https://cpan.metacpan.org/authors/id/A/AT/ATOOMIC/B-COW-0.007.tar.gz
++++Cache-Simple-TimedExpiry-0.27.tar.gz
+Cache::Simple::TimedExpiry	 Found version 0.27 | Cache-Simple-TimedExpiry-0.27.tar.gz | https://cpan.metacpan.org/authors/id/J/JE/JESSE/Cache-Simple-TimedExpiry-0.27.tar.gz
+Descargado Cache-Simple-TimedExpiry-0.27.tar.gz desde https://cpan.metacpan.org/authors/id/J/JE/JESSE/Cache-Simple-TimedExpiry-0.27.tar.gz
++++Class-ReturnValue-0.55.tar.gz
+Class::ReturnValue	 Found version 0.55 | Class-ReturnValue-0.55.tar.gz | https://cpan.metacpan.org/authors/id/J/JE/JESSE/Class-ReturnValue-0.55.tar.gz
+Descargado Class-ReturnValue-0.55.tar.gz desde https://cpan.metacpan.org/authors/id/J/JE/JESSE/Class-ReturnValue-0.55.tar.gz
++++JSON-PP-4.16.tar.gz
+JSON::PP	 Found version 4.16 | JSON-PP-4.16.tar.gz | https://cpan.metacpan.org/authors/id/I/IS/ISHIGAKI/JSON-PP-4.16.tar.gz
+Descargado JSON-PP-4.16.tar.gz desde https://cpan.metacpan.org/authors/id/I/IS/ISHIGAKI/JSON-PP-4.16.tar.gz
++++Test-Differences-0.69.tar.gz
+Test::Differences	 Found version 0.69 | Test-Differences-0.69.tar.gz | https://cpan.metacpan.org/authors/id/D/DC/DCANTRELL/Test-Differences-0.69.tar.gz
+Descargado Test-Differences-0.69.tar.gz desde https://cpan.metacpan.org/authors/id/D/DC/DCANTRELL/Test-Differences-0.69.tar.gz
++++Test-Memory-Cycle-1.06.tar.gz
+Test::Memory::Cycle	 Found version 1.06 | Test-Memory-Cycle-1.06.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/Test-Memory-Cycle-1.06.tar.gz
+Descargado Test-Memory-Cycle-1.06.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/Test-Memory-Cycle-1.06.tar.gz
++++Devel-GlobalDestruction-0.14.tar.gz
+Devel::GlobalDestruction	 Found version 0.14 | Devel-GlobalDestruction-0.14.tar.gz | https://cpan.metacpan.org/authors/id/H/HA/HAARG/Devel-GlobalDestruction-0.14.tar.gz
+Descargado Devel-GlobalDestruction-0.14.tar.gz desde https://cpan.metacpan.org/authors/id/H/HA/HAARG/Devel-GlobalDestruction-0.14.tar.gz
++++Dist-CheckConflicts-0.11.tar.gz
+Dist::CheckConflicts	 Found version 0.11 | Dist-CheckConflicts-0.11.tar.gz | https://cpan.metacpan.org/authors/id/D/DO/DOY/Dist-CheckConflicts-0.11.tar.gz
+Descargado Dist-CheckConflicts-0.11.tar.gz desde https://cpan.metacpan.org/authors/id/D/DO/DOY/Dist-CheckConflicts-0.11.tar.gz
++++Module-Runtime-0.016.tar.gz
+Module::Runtime	 Found version 0.016 | Module-Runtime-0.016.tar.gz | https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Module-Runtime-0.016.tar.gz
+Descargado Module-Runtime-0.016.tar.gz desde https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Module-Runtime-0.016.tar.gz
++++Params-ValidationCompiler-0.31.tar.gz
+Params::ValidationCompiler	 Found version 0.31 | Params-ValidationCompiler-0.31.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Params-ValidationCompiler-0.31.tar.gz
+Descargado Params-ValidationCompiler-0.31.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Params-ValidationCompiler-0.31.tar.gz
++++Specio-0.48.tar.gz
+Specio	 Found version 0.48 | Specio-0.48.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Specio-0.48.tar.gz
+Descargado Specio-0.48.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Specio-0.48.tar.gz
++++Specio-0.48.tar.gz
+Specio::Declare	 Found version 0.48 | Specio-0.48.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Specio-0.48.tar.gz
+Descargado Specio-0.48.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Specio-0.48.tar.gz
++++Specio-0.48.tar.gz
+Specio::Exporter	 Found version 0.48 | Specio-0.48.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Specio-0.48.tar.gz
+Descargado Specio-0.48.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Specio-0.48.tar.gz
++++Specio-0.48.tar.gz
+Specio::Library::Builtins	 Found version 0.48 | Specio-0.48.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Specio-0.48.tar.gz
+Descargado Specio-0.48.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Specio-0.48.tar.gz
++++Specio-0.48.tar.gz
+Specio::Library::Numeric	 Found version 0.48 | Specio-0.48.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Specio-0.48.tar.gz
+Descargado Specio-0.48.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Specio-0.48.tar.gz
++++Specio-0.48.tar.gz
+Specio::Library::String	 Found version 0.48 | Specio-0.48.tar.gz | https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Specio-0.48.tar.gz
+Descargado Specio-0.48.tar.gz desde https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Specio-0.48.tar.gz
++++namespace-autoclean-0.29.tar.gz
+namespace::autoclean	 Found version 0.29 | namespace-autoclean-0.29.tar.gz | https://cpan.metacpan.org/authors/id/E/ET/ETHER/namespace-autoclean-0.29.tar.gz
+Descargado namespace-autoclean-0.29.tar.gz desde https://cpan.metacpan.org/authors/id/E/ET/ETHER/namespace-autoclean-0.29.tar.gz
++++DateTime-Format-Mail-0.403.tar.gz
+DateTime::Format::Mail	 Found version 0.403 | DateTime-Format-Mail-0.403.tar.gz | https://cpan.metacpan.org/authors/id/B/BO/BOOK/DateTime-Format-Mail-0.403.tar.gz
+Descargado DateTime-Format-Mail-0.403.tar.gz desde https://cpan.metacpan.org/authors/id/B/BO/BOOK/DateTime-Format-Mail-0.403.tar.gz
++++DateTime-Format-W3CDTF-0.08.tar.gz
+DateTime::Format::W3CDTF	 Found version 0.08 | DateTime-Format-W3CDTF-0.08.tar.gz | https://cpan.metacpan.org/authors/id/G/GW/GWILLIAMS/DateTime-Format-W3CDTF-0.08.tar.gz
+Descargado DateTime-Format-W3CDTF-0.08.tar.gz desde https://cpan.metacpan.org/authors/id/G/GW/GWILLIAMS/DateTime-Format-W3CDTF-0.08.tar.gz
++++Mozilla-CA-20221114.tar.gz
+Mozilla::CA	 Found version 20221114 | Mozilla-CA-20221114.tar.gz | https://cpan.metacpan.org/authors/id/H/HA/HAARG/Mozilla-CA-20221114.tar.gz
+Descargado Mozilla-CA-20221114.tar.gz desde https://cpan.metacpan.org/authors/id/H/HA/HAARG/Mozilla-CA-20221114.tar.gz
++++CryptX-0.078.tar.gz
+Crypt::Cipher::AES	 Found version 0.078 | CryptX-0.078.tar.gz | https://cpan.metacpan.org/authors/id/M/MI/MIK/CryptX-0.078.tar.gz
+Descargado CryptX-0.078.tar.gz desde https://cpan.metacpan.org/authors/id/M/MI/MIK/CryptX-0.078.tar.gz
++++Crypt-PBKDF2-0.161520.tar.gz
+Crypt::PBKDF2	 Found version 0.161520 | Crypt-PBKDF2-0.161520.tar.gz | https://cpan.metacpan.org/authors/id/A/AR/ARODLAND/Crypt-PBKDF2-0.161520.tar.gz
+Descargado Crypt-PBKDF2-0.161520.tar.gz desde https://cpan.metacpan.org/authors/id/A/AR/ARODLAND/Crypt-PBKDF2-0.161520.tar.gz
++++Statistics-ChiSquare-1.0000.tar.gz
+Statistics::ChiSquare	 Found version 1.0000 | Statistics-ChiSquare-1.0000.tar.gz | https://cpan.metacpan.org/authors/id/D/DC/DCANTRELL/Statistics-ChiSquare-1.0000.tar.gz
+Descargado Statistics-ChiSquare-1.0000.tar.gz desde https://cpan.metacpan.org/authors/id/D/DC/DCANTRELL/Statistics-ChiSquare-1.0000.tar.gz
++++Math-BigInt-1.999838.tar.gz
+Math::BigInt	 Found version 1.999838 | Math-BigInt-1.999838.tar.gz | https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/Math-BigInt-1.999838.tar.gz
+Descargado Math-BigInt-1.999838.tar.gz desde https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/Math-BigInt-1.999838.tar.gz
++++Test2-Suite-0.000155.tar.gz
+Test2::V0	 Found version 0.000155 | Test2-Suite-0.000155.tar.gz | https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Test2-Suite-0.000155.tar.gz
+Descargado Test2-Suite-0.000155.tar.gz desde https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Test2-Suite-0.000155.tar.gz
++++Crypt-Curve25519-0.07.tar.gz
+Crypt::Curve25519	 Found version 0.07 | Crypt-Curve25519-0.07.tar.gz | https://cpan.metacpan.org/authors/id/K/KA/KARASIK/Crypt-Curve25519-0.07.tar.gz
+Descargado Crypt-Curve25519-0.07.tar.gz desde https://cpan.metacpan.org/authors/id/K/KA/KARASIK/Crypt-Curve25519-0.07.tar.gz
++++CryptX-0.078.tar.gz
+CryptX	 Found version 0.078 | CryptX-0.078.tar.gz | https://cpan.metacpan.org/authors/id/M/MI/MIK/CryptX-0.078.tar.gz
+Descargado CryptX-0.078.tar.gz desde https://cpan.metacpan.org/authors/id/M/MI/MIK/CryptX-0.078.tar.gz
++++File-HomeDir-1.006.tar.gz
+File::HomeDir	 Found version 1.006 | File-HomeDir-1.006.tar.gz | https://cpan.metacpan.org/authors/id/R/RE/REHSACK/File-HomeDir-1.006.tar.gz
+Descargado File-HomeDir-1.006.tar.gz desde https://cpan.metacpan.org/authors/id/R/RE/REHSACK/File-HomeDir-1.006.tar.gz
++++Mock-Sub-1.09.tar.gz
+Mock::Sub	 Found version 1.09 | Mock-Sub-1.09.tar.gz | https://cpan.metacpan.org/authors/id/S/ST/STEVEB/Mock-Sub-1.09.tar.gz
+Descargado Mock-Sub-1.09.tar.gz desde https://cpan.metacpan.org/authors/id/S/ST/STEVEB/Mock-Sub-1.09.tar.gz
++++Data-Structure-Util-0.16.tar.gz
+Data::Structure::Util	 Found version 0.16 | Data-Structure-Util-0.16.tar.gz | https://cpan.metacpan.org/authors/id/A/AN/ANDYA/Data-Structure-Util-0.16.tar.gz
+Descargado Data-Structure-Util-0.16.tar.gz desde https://cpan.metacpan.org/authors/id/A/AN/ANDYA/Data-Structure-Util-0.16.tar.gz
++++IO-Event-0.813.tar.gz
+IO::Event	 Found version 0.813 | IO-Event-0.813.tar.gz | https://cpan.metacpan.org/authors/id/M/MU/MUIR/modules/IO-Event-0.813.tar.gz
+Descargado IO-Event-0.813.tar.gz desde https://cpan.metacpan.org/authors/id/M/MU/MUIR/modules/IO-Event-0.813.tar.gz
++++Crypt-Password-Util-0.17.tar.gz
+Crypt::Password::Util	 Found version 0.17 | Crypt-Password-Util-0.17.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PERLANCAR/Crypt-Password-Util-0.17.tar.gz
+Descargado Crypt-Password-Util-0.17.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PERLANCAR/Crypt-Password-Util-0.17.tar.gz
++++File-Copy-Recursive-0.45.tar.gz
+File::Copy::Recursive	 Found version 0.45 | File-Copy-Recursive-0.45.tar.gz | https://cpan.metacpan.org/authors/id/D/DM/DMUEY/File-Copy-Recursive-0.45.tar.gz
+Descargado File-Copy-Recursive-0.45.tar.gz desde https://cpan.metacpan.org/authors/id/D/DM/DMUEY/File-Copy-Recursive-0.45.tar.gz
++++File-Flock-Retry-0.632.tar.gz
+File::Flock::Retry	 Found version 0.632 | File-Flock-Retry-0.632.tar.gz | https://cpan.metacpan.org/authors/id/P/PE/PERLANCAR/File-Flock-Retry-0.632.tar.gz
+Descargado File-Flock-Retry-0.632.tar.gz desde https://cpan.metacpan.org/authors/id/P/PE/PERLANCAR/File-Flock-Retry-0.632.tar.gz
++++File-Slurper-0.014.tar.gz
+File::Slurper	 Found version 0.014 | File-Slurper-0.014.tar.gz | https://cpan.metacpan.org/authors/id/L/LE/LEONT/File-Slurper-0.014.tar.gz
+Descargado File-Slurper-0.014.tar.gz desde https://cpan.metacpan.org/authors/id/L/LE/LEONT/File-Slurper-0.014.tar.gz
++++List-MoreUtils-0.430.tar.gz
+List::MoreUtils	 Found version 0.430 | List-MoreUtils-0.430.tar.gz | https://cpan.metacpan.org/authors/id/R/RE/REHSACK/List-MoreUtils-0.430.tar.gz
+Descargado List-MoreUtils-0.430.tar.gz desde https://cpan.metacpan.org/authors/id/R/RE/REHSACK/List-MoreUtils-0.430.tar.gz
++++Exporter-Tiny-1.006002.tar.gz
+Exporter::Tiny	 Found version 1.006002 | Exporter-Tiny-1.006002.tar.gz | https://cpan.metacpan.org/authors/id/T/TO/TOBYINK/Exporter-Tiny-1.006002.tar.gz
+Descargado Exporter-Tiny-1.006002.tar.gz desde https://cpan.metacpan.org/authors/id/T/TO/TOBYINK/Exporter-Tiny-1.006002.tar.gz
++++List-MoreUtils-XS-0.430.tar.gz
+List::MoreUtils::XS	 Found version 0.430 | List-MoreUtils-XS-0.430.tar.gz | https://cpan.metacpan.org/authors/id/R/RE/REHSACK/List-MoreUtils-XS-0.430.tar.gz
+Descargado List-MoreUtils-XS-0.430.tar.gz desde https://cpan.metacpan.org/authors/id/R/RE/REHSACK/List-MoreUtils-XS-0.430.tar.gz
++++Regexp-IPv6-0.03.tar.gz
+Regexp::IPv6	 Found version 0.03 | Regexp-IPv6-0.03.tar.gz | https://cpan.metacpan.org/authors/id/S/SA/SALVA/Regexp-IPv6-0.03.tar.gz
+Descargado Regexp-IPv6-0.03.tar.gz desde https://cpan.metacpan.org/authors/id/S/SA/SALVA/Regexp-IPv6-0.03.tar.gz
++++Cpanel-JSON-XS-4.36.tar.gz
+Cpanel::JSON::XS	 Found version 4.36 | Cpanel-JSON-XS-4.36.tar.gz | https://cpan.metacpan.org/authors/id/R/RU/RURBAN/Cpanel-JSON-XS-4.36.tar.gz
+Descargado Cpanel-JSON-XS-4.36.tar.gz desde https://cpan.metacpan.org/authors/id/R/RU/RURBAN/Cpanel-JSON-XS-4.36.tar.gz

@@ -1,0 +1,105 @@
+#----------------------------------------------------------------
+# INSTALACION DE PERL
+#----------------------------------------------------------------
+
+#----------------------------------------------------------------
+# FUNCION: imodule
+# IN: Fichero tar.gz
+#----------------------------------------------------------------
+imodule()
+{
+
+ # tgz2src -----------------------
+ if [ ! -r ./$1 ]; then echo "El fichero ./$1 NO EXISTE"; exit; fi
+
+ cp -f ./$1 $SRCDIR
+ cd $SRCDIR
+
+ T=`echo $1 | sed s/.gz//`
+ SUBDIR=`echo $1 | sed s/.tar.gz//`
+
+ gunzip $T
+ tar xvf $T
+ rm -f ./$T
+ cd -
+
+ # install -----------------------
+ SEGUIR=1
+ DIR_MODULES='/opt/cnm-os/perl_modules10'
+ if [ -d '/opt/cnm-extras/perl_modules10' ]; then
+   DIR_MODULES='/opt/cnm-extras/perl_modules10'
+ fi
+ # Si existe /os/perl_modules/$SUBDIR.sh ejecuta ese script y termina
+ if [ -f $DIR_MODULES/$SUBDIR.sh ]; then $DIR_MODULES/$SUBDIR.sh; exit; fi
+
+ cd $SRCDIR/$SUBDIR 2>/dev/null
+ if [ $? -gt 0 ];
+ then
+  echo INTENTANDO
+  SUBDIR=`echo $SUBDIR | tr "_" "."`
+  cd $SRCDIR/$SUBDIR
+echo $SRCDIR/$SUBDIR
+  if [ $? -gt 0 ]; then SEGUIR=0; fi
+ fi
+
+
+ if [ $SEGUIR -eq 1 ];
+ then
+  if [ -f Makefile.PL ]; then 
+  	perl Makefile.PL
+  	make && make install
+  	cd -
+  elif [ -f Build.PL ]; then
+        perl Build.PL
+        ./Build && ./Build install
+        cd -
+  else echo "*****************NO SE PUEDE INSTALAR $1"
+  fi
+ fi
+
+ # Si existe /os/perl_modules/post-$SUBDIR.sh ejecuta ese script al terminar de instalar
+ if [ -f $DIR_MODULES/post-$SUBDIR.sh ]; then 
+   $DIR_MODULES/post-$SUBDIR.sh; 
+ fi
+
+}
+
+#----------------------------------------------------------------
+export PERL_MM_USE_DEFAULT=1
+SRCDIR=/tmp/src/perl
+LOGDIR=/tmp/src/perl/log
+mkdir -p $SRCDIR
+mkdir -p $LOGDIR
+export LC_ALL=C
+
+#----------------------------------------------------------------
+# INSTALACION DE perl.5.8.5
+#sh Configure -Dusethreads -d
+#make
+#make test
+#make install
+# Cambiar enlace simbolico de perl a /usr/local/bin/perl
+
+
+
+#----------------------------------------------------------------
+if [ $# -eq 1 ]; then
+ if [ `echo $1 | grep -c tar` -gt 0 ]; then
+  (((imodule $1) 3>&1 1>&2 2>&3|tee $LOGDIR/$1.stderr) 3>&1 1>&2 2>&3)
+  if [ ! -s $LOGDIR/$1.stderr ]; then rm -f $LOGDIR/$1.stderr; fi
+
+ else
+   for I in `cat $1`;
+    do
+      if [ `echo $I | grep -c tar` -gt 0 ]; then
+        (((imodule $I) 3>&1 1>&2 2>&3|tee $LOGDIR/$I.stderr) 3>&1 1>&2 2>&3)
+        if [ ! -s $LOGDIR/$I.stderr ]; then rm -f $LOGDIR/$I.stderr; fi
+      fi
+    done
+ fi
+else echo "USO: $0 [modulo.tar.gz|fichero]"
+fi
+
+#----------------------------------------------------------------
+
+
